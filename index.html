@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="id">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#6eaff7" />
+    <meta name="description" content="Tampilan menu utama Petualangan Calistung, game edukasi untuk anak TK." />
+    <title>Petualangan Calistung — Menu Utama</title>
+    <link rel="stylesheet" href="css/style.css" />
+  </head>
+  <body>
+    <main class="game-screen" aria-labelledby="game-title">
+      <h1 id="game-title" class="sr-only">Petualangan Calistung</h1>
+
+      <!-- Seluruh dekorasi berada pada satu bidang agar proporsinya tetap sama. -->
+      <svg class="scene" viewBox="0 0 446 277" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+        <path fill="#6EAFF7" d="M0 0h446v277H0z" />
+
+        <!-- Awan, matahari, dan huruf serta angka dekoratif. -->
+        <g fill="#fff">
+          <path d="M38 44a11 11 0 0 1 15-10 14 14 0 0 1 27 11c9 3 7 13-2 13H38c-10 0-10-11 0-14Z" />
+          <path d="M144 20a11 11 0 0 1 16-9 14 14 0 0 1 27 10c9 4 5 14-3 14h-33c-10 0-12-11-7-15Z" />
+        </g>
+        <circle cx="401" cy="42" r="24.5" fill="#F6FBA8" />
+        <circle cx="401" cy="42" r="18.5" fill="#F0F87F" />
+        <g class="floating-symbols" font-size="34" font-weight="800" text-anchor="middle">
+          <text x="54" y="125" fill="#F0F87F" transform="rotate(-12 54 114)">A</text>
+          <text x="111" y="152" fill="#fff" transform="rotate(9 111 141)">1</text>
+          <text x="394" y="102" fill="#fff" transform="rotate(11 394 91)">B</text>
+          <text x="414" y="178" fill="#F0F87F" transform="rotate(-8 414 166)">3</text>
+        </g>
+
+        <!-- Tiga lapisan bukit. -->
+        <path d="M0 213c86-30 152-22 222-5 78 18 153 8 224-10v79H0Z" fill="#4BC87F" />
+        <path d="M0 247c95-26 174-19 251-2 87 19 142 8 195-11v43H0Z" fill="#30AF6D" />
+        <path d="M0 277c101-16 206-22 287-9 75 12 113 4 159-9v18H0Z" fill="#279D61" />
+
+        <!-- Pohon kiri dan kanan. -->
+        <path d="M63 182h6v24h-6zM379 195h6v24h-6z" fill="#29668B" />
+        <g fill="#299B60">
+          <path d="M49 172a18 18 0 0 1 35 0c15 9 6 25-8 20-6 4-14 2-19-1-16 5-24-12-8-19Z" />
+          <path d="M365 183a18 18 0 0 1 35 0c15 9 6 25-8 20-6 4-14 2-19-1-16 5-24-12-8-19Z" />
+        </g>
+
+        <!-- Teks judul dengan garis putih seperti referensi. -->
+        <g class="title-art" fill="#29668B" stroke="#fff" stroke-width="6" stroke-linejoin="round" paint-order="stroke fill" text-anchor="middle">
+          <text x="223" y="58" font-size="33">Petualangan</text>
+          <text x="223" y="96" font-size="45">Calistung</text>
+        </g>
+        <path d="M162 105q61 12 121 0" stroke="#F0F87F" stroke-width="5" stroke-linecap="round" />
+
+        <!-- Balon ajakan. -->
+        <path d="M295 129h85a16 16 0 0 1 0 32h-78l-27 11 9-17a16 16 0 0 1 11-26Z" fill="#fff" stroke="#29668B" stroke-width="2" stroke-linejoin="round" />
+        <text x="337" y="150" class="speech-label" fill="#29668B" text-anchor="middle" font-size="14">Ayo Bermain!</text>
+
+        <!-- Maskot burung hantu, ilustrasi vektor lokal. -->
+        <g stroke="#29668B" stroke-width="2.4" stroke-linejoin="round">
+          <path d="m186 144 4-22 22 9m23 0 21-9 4 23" fill="#F0F87F" />
+          <ellipse cx="205" cy="222" rx="10" ry="4.5" fill="#4BC87F" />
+          <ellipse cx="241" cy="222" rx="10" ry="4.5" fill="#4BC87F" />
+          <path d="M223 124c28 0 43 21 43 48 0 30-17 48-43 48s-43-18-43-48c0-27 15-48 43-48Z" fill="#F0F87F" />
+          <path d="M203 160c-15 5-18 26-13 41 5 13 17 19 33 19s28-6 33-19c5-15 2-36-13-41Z" fill="#fff" stroke="none" />
+          <ellipse cx="178" cy="180" rx="10" ry="24" transform="rotate(12 178 180)" fill="#4BC87F" />
+          <ellipse cx="268" cy="180" rx="10" ry="24" transform="rotate(-12 268 180)" fill="#4BC87F" />
+          <circle cx="205" cy="160" r="15" fill="#fff" />
+          <circle cx="241" cy="160" r="15" fill="#fff" />
+          <path d="m218 170 5 10 5-10Z" fill="#F0F87F" stroke-width="1.6" />
+        </g>
+        <g fill="#1F4A63">
+          <ellipse cx="207" cy="161" rx="5.5" ry="7" />
+          <ellipse cx="239" cy="161" rx="5.5" ry="7" />
+        </g>
+        <g fill="#fff">
+          <circle cx="209" cy="157" r="2" />
+          <circle cx="241" cy="157" r="2" />
+        </g>
+        <g fill="#6EAFF7">
+          <circle cx="191" cy="172" r="5.5" />
+          <circle cx="255" cy="172" r="5.5" />
+        </g>
+      </svg>
+
+      <!-- Elemen visual saja; tidak terhubung dengan navigasi atau permainan. -->
+      <button class="start-button" type="button" aria-label="Mulai (tampilan saja)">
+        <span>Mulai</span>
+        <svg viewBox="0 0 20 24" aria-hidden="true"><path d="M3 2 18 11a1.2 1.2 0 0 1 0 2L3 22a1.2 1.2 0 0 1-2-1V3a1.2 1.2 0 0 1 2-1Z" fill="currentColor" /></svg>
+      </button>
+    </main>
+  </body>
+</html>

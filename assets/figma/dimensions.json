@@ -1,0 +1,1226 @@
+[
+  {
+    "file": "assets/figma/failure/imgGroup.svg",
+    "width": "799.294",
+    "height": "217.165",
+    "viewBox": "0 0 799.294 217.165"
+  },
+  {
+    "file": "assets/figma/failure/imgGroup1.svg",
+    "width": "229.653",
+    "height": "205.26",
+    "viewBox": "0 0 229.653 205.26"
+  },
+  {
+    "file": "assets/figma/failure/imgGroup2.svg",
+    "width": "262.627",
+    "height": "205.26",
+    "viewBox": "0 0 262.627 205.26"
+  },
+  {
+    "file": "assets/figma/failure/imgProperty1Default.svg",
+    "width": "91",
+    "height": "86",
+    "viewBox": "0 0 91 86"
+  },
+  {
+    "file": "assets/figma/failure/imgVector.svg",
+    "width": "1133",
+    "height": "744",
+    "viewBox": "0 0 1133 744"
+  },
+  {
+    "file": "assets/figma/failure/imgVector1.svg",
+    "width": "1133",
+    "height": "91",
+    "viewBox": "0 0 1133 91"
+  },
+  {
+    "file": "assets/figma/failure/imgVector10.svg",
+    "width": "37",
+    "height": "37",
+    "viewBox": "0 0 37 37"
+  },
+  {
+    "file": "assets/figma/failure/imgVector11.svg",
+    "width": "418",
+    "height": "54",
+    "viewBox": "0 0 418 54"
+  },
+  {
+    "file": "assets/figma/failure/imgVector12.svg",
+    "width": "280",
+    "height": "76.875",
+    "viewBox": "0 0 280 76.875"
+  },
+  {
+    "file": "assets/figma/failure/imgVector13.svg",
+    "width": "286",
+    "height": "82.875",
+    "viewBox": "0 0 286 82.875"
+  },
+  {
+    "file": "assets/figma/failure/imgVector14.svg",
+    "width": "240",
+    "height": "76.875",
+    "viewBox": "0 0 240 76.875"
+  },
+  {
+    "file": "assets/figma/failure/imgVector15.svg",
+    "width": "245",
+    "height": "81.875",
+    "viewBox": "0 0 245 81.875"
+  },
+  {
+    "file": "assets/figma/failure/imgVector16.svg",
+    "width": "41.4",
+    "height": "41.4002",
+    "viewBox": "0 0 41.4 41.4002"
+  },
+  {
+    "file": "assets/figma/failure/imgVector2.svg",
+    "width": "1133",
+    "height": "45",
+    "viewBox": "0 0 1133 45"
+  },
+  {
+    "file": "assets/figma/failure/imgVector3.svg",
+    "width": "360",
+    "height": "360",
+    "viewBox": "0 0 360 360"
+  },
+  {
+    "file": "assets/figma/failure/imgVector4.svg",
+    "width": "300",
+    "height": "300",
+    "viewBox": "0 0 300 300"
+  },
+  {
+    "file": "assets/figma/failure/imgVector5.svg",
+    "width": "244.92",
+    "height": "233.22",
+    "viewBox": "0 0 244.92 233.22"
+  },
+  {
+    "file": "assets/figma/failure/imgVector6.svg",
+    "width": "217.7",
+    "height": "207.2",
+    "viewBox": "0 0 217.7 207.2"
+  },
+  {
+    "file": "assets/figma/failure/imgVector7.svg",
+    "width": "18",
+    "height": "18",
+    "viewBox": "0 0 18 18"
+  },
+  {
+    "file": "assets/figma/failure/imgVector8.svg",
+    "width": "42",
+    "height": "15",
+    "viewBox": "0 0 42 15"
+  },
+  {
+    "file": "assets/figma/failure/imgVector9.svg",
+    "width": "37",
+    "height": "37",
+    "viewBox": "0 0 37 37"
+  },
+  {
+    "file": "assets/figma/forest/imgGroup.svg",
+    "width": "530",
+    "height": "84",
+    "viewBox": "0 0 530 84"
+  },
+  {
+    "file": "assets/figma/forest/imgGroup1.svg",
+    "width": "188.771",
+    "height": "169.26",
+    "viewBox": "0 0 188.771 169.26"
+  },
+  {
+    "file": "assets/figma/forest/imgGroup7.svg",
+    "width": "91",
+    "height": "86",
+    "viewBox": "0 0 91 86"
+  },
+  {
+    "file": "assets/figma/forest/imgMaskGroup.svg",
+    "width": "1090",
+    "height": "778",
+    "viewBox": "0 0 1090 778"
+  },
+  {
+    "file": "assets/figma/forest/imgMaskGroup1.svg",
+    "width": "624.005",
+    "height": "414.6",
+    "viewBox": "0 0 624.005 414.6"
+  },
+  {
+    "file": "assets/figma/forest/imgMaskGroup2.svg",
+    "width": "594.001",
+    "height": "384.613",
+    "viewBox": "0 0 594.001 384.613"
+  },
+  {
+    "file": "assets/figma/forest/imgProperty1Default.svg",
+    "width": "91",
+    "height": "86",
+    "viewBox": "0 0 91 86"
+  },
+  {
+    "file": "assets/figma/forest/imgVector.svg",
+    "width": "1133",
+    "height": "774",
+    "viewBox": "0 0 1133 774"
+  },
+  {
+    "file": "assets/figma/forest/imgVector1.svg",
+    "width": "1133",
+    "height": "564",
+    "viewBox": "0 0 1133 564"
+  },
+  {
+    "file": "assets/figma/forest/imgVector10.svg",
+    "width": "76",
+    "height": "76",
+    "viewBox": "0 0 76 76"
+  },
+  {
+    "file": "assets/figma/forest/imgVector11.svg",
+    "width": "52",
+    "height": "52",
+    "viewBox": "0 0 52 52"
+  },
+  {
+    "file": "assets/figma/forest/imgVector12.svg",
+    "width": "92",
+    "height": "92",
+    "viewBox": "0 0 92 92"
+  },
+  {
+    "file": "assets/figma/forest/imgVector13.svg",
+    "width": "100",
+    "height": "100",
+    "viewBox": "0 0 100 100"
+  },
+  {
+    "file": "assets/figma/forest/imgVector14.svg",
+    "width": "58.3202",
+    "height": "55.62",
+    "viewBox": "0 0 58.3202 55.62"
+  },
+  {
+    "file": "assets/figma/forest/imgVector15.svg",
+    "width": "146",
+    "height": "146",
+    "viewBox": "0 0 146 146"
+  },
+  {
+    "file": "assets/figma/forest/imgVector16.svg",
+    "width": "108",
+    "height": "108",
+    "viewBox": "0 0 108 108"
+  },
+  {
+    "file": "assets/figma/forest/imgVector17.svg",
+    "width": "116",
+    "height": "116",
+    "viewBox": "0 0 116 116"
+  },
+  {
+    "file": "assets/figma/forest/imgVector18.svg",
+    "width": "100",
+    "height": "100",
+    "viewBox": "0 0 100 100"
+  },
+  {
+    "file": "assets/figma/forest/imgVector19.svg",
+    "width": "28",
+    "height": "22",
+    "viewBox": "0 0 28 22"
+  },
+  {
+    "file": "assets/figma/forest/imgVector2.svg",
+    "width": "320",
+    "height": "120",
+    "viewBox": "0 0 320 120"
+  },
+  {
+    "file": "assets/figma/forest/imgVector20.svg",
+    "width": "23",
+    "height": "20",
+    "viewBox": "0 0 23 20"
+  },
+  {
+    "file": "assets/figma/forest/imgVector21.svg",
+    "width": "23",
+    "height": "20",
+    "viewBox": "0 0 23 20"
+  },
+  {
+    "file": "assets/figma/forest/imgVector22.svg",
+    "width": "175",
+    "height": "77",
+    "viewBox": "0 0 175 77"
+  },
+  {
+    "file": "assets/figma/forest/imgVector23.svg",
+    "width": "47.7168",
+    "height": "45.53",
+    "viewBox": "0 0 47.7168 45.53"
+  },
+  {
+    "file": "assets/figma/forest/imgVector3.svg",
+    "width": "240",
+    "height": "100",
+    "viewBox": "0 0 240 100"
+  },
+  {
+    "file": "assets/figma/forest/imgVector4.svg",
+    "width": "14",
+    "height": "60",
+    "viewBox": "0 0 14 60"
+  },
+  {
+    "file": "assets/figma/forest/imgVector5.svg",
+    "width": "80",
+    "height": "80",
+    "viewBox": "0 0 80 80"
+  },
+  {
+    "file": "assets/figma/forest/imgVector6.svg",
+    "width": "56",
+    "height": "56",
+    "viewBox": "0 0 56 56"
+  },
+  {
+    "file": "assets/figma/forest/imgVector7.svg",
+    "width": "12",
+    "height": "46",
+    "viewBox": "0 0 12 46"
+  },
+  {
+    "file": "assets/figma/forest/imgVector8.svg",
+    "width": "64",
+    "height": "64",
+    "viewBox": "0 0 64 64"
+  },
+  {
+    "file": "assets/figma/forest/imgVector9.svg",
+    "width": "14",
+    "height": "56",
+    "viewBox": "0 0 14 56"
+  },
+  {
+    "file": "assets/figma/forest-correct/imgGroup.svg",
+    "width": "990",
+    "height": "82",
+    "viewBox": "0 0 990 82"
+  },
+  {
+    "file": "assets/figma/forest-correct/imgGroup1.svg",
+    "width": "176.593",
+    "height": "158.34",
+    "viewBox": "0 0 176.593 158.34"
+  },
+  {
+    "file": "assets/figma/forest-correct/imgGroup2.svg",
+    "width": "124.562",
+    "height": "153.336",
+    "viewBox": "0 0 124.562 153.336"
+  },
+  {
+    "file": "assets/figma/forest-correct/imgProperty1Default.svg",
+    "width": "91",
+    "height": "86",
+    "viewBox": "0 0 91 86"
+  },
+  {
+    "file": "assets/figma/forest-correct/imgVector.svg",
+    "width": "1133",
+    "height": "744",
+    "viewBox": "0 0 1133 744"
+  },
+  {
+    "file": "assets/figma/forest-correct/imgVector1.svg",
+    "width": "1133",
+    "height": "94",
+    "viewBox": "0 0 1133 94"
+  },
+  {
+    "file": "assets/figma/forest-correct/imgVector10.svg",
+    "width": "132",
+    "height": "132",
+    "viewBox": "0 0 132 132"
+  },
+  {
+    "file": "assets/figma/forest-correct/imgVector11.svg",
+    "width": "65.0002",
+    "height": "33",
+    "viewBox": "0 0 65.0002 33"
+  },
+  {
+    "file": "assets/figma/forest-correct/imgVector12.svg",
+    "width": "345",
+    "height": "81",
+    "viewBox": "0 0 345 81"
+  },
+  {
+    "file": "assets/figma/forest-correct/imgVector13.svg",
+    "width": "51",
+    "height": "26",
+    "viewBox": "0 0 51 26"
+  },
+  {
+    "file": "assets/figma/forest-correct/imgVector14.svg",
+    "width": "80",
+    "height": "80",
+    "viewBox": "0 0 80 80"
+  },
+  {
+    "file": "assets/figma/forest-correct/imgVector15.svg",
+    "width": "86",
+    "height": "86",
+    "viewBox": "0 0 86 86"
+  },
+  {
+    "file": "assets/figma/forest-correct/imgVector16.svg",
+    "width": "11",
+    "height": "36",
+    "viewBox": "0 0 11 36"
+  },
+  {
+    "file": "assets/figma/forest-correct/imgVector17.svg",
+    "width": "30",
+    "height": "40",
+    "viewBox": "0 0 30 40"
+  },
+  {
+    "file": "assets/figma/forest-correct/imgVector18.svg",
+    "width": "22",
+    "height": "42.0001",
+    "viewBox": "0 0 22 42.0001"
+  },
+  {
+    "file": "assets/figma/forest-correct/imgVector19.svg",
+    "width": "165",
+    "height": "61",
+    "viewBox": "0 0 165 61"
+  },
+  {
+    "file": "assets/figma/forest-correct/imgVector2.svg",
+    "width": "1133",
+    "height": "47",
+    "viewBox": "0 0 1133 47"
+  },
+  {
+    "file": "assets/figma/forest-correct/imgVector20.svg",
+    "width": "32",
+    "height": "32",
+    "viewBox": "0 0 32 32"
+  },
+  {
+    "file": "assets/figma/forest-correct/imgVector21.svg",
+    "width": "34",
+    "height": "34",
+    "viewBox": "0 0 34 34"
+  },
+  {
+    "file": "assets/figma/forest-correct/imgVector22.svg",
+    "width": "32",
+    "height": "32",
+    "viewBox": "0 0 32 32"
+  },
+  {
+    "file": "assets/figma/forest-correct/imgVector3.svg",
+    "width": "240",
+    "height": "220",
+    "viewBox": "0 0 240 220"
+  },
+  {
+    "file": "assets/figma/forest-correct/imgVector4.svg",
+    "width": "246",
+    "height": "226",
+    "viewBox": "0 0 246 226"
+  },
+  {
+    "file": "assets/figma/forest-correct/imgVector5.svg",
+    "width": "88",
+    "height": "88",
+    "viewBox": "0 0 88 88"
+  },
+  {
+    "file": "assets/figma/forest-correct/imgVector6.svg",
+    "width": "94",
+    "height": "94",
+    "viewBox": "0 0 94 94"
+  },
+  {
+    "file": "assets/figma/forest-correct/imgVector7.svg",
+    "width": "751",
+    "height": "221",
+    "viewBox": "0 0 751 221"
+  },
+  {
+    "file": "assets/figma/forest-correct/imgVector8.svg",
+    "width": "124",
+    "height": "124",
+    "viewBox": "0 0 124 124"
+  },
+  {
+    "file": "assets/figma/forest-correct/imgVector9.svg",
+    "width": "132",
+    "height": "132",
+    "viewBox": "0 0 132 132"
+  },
+  {
+    "file": "assets/figma/forest-wrong/imgGroup.svg",
+    "width": "990",
+    "height": "82",
+    "viewBox": "0 0 990 82"
+  },
+  {
+    "file": "assets/figma/forest-wrong/imgGroup1.svg",
+    "width": "170",
+    "height": "203.124",
+    "viewBox": "0 0 170 203.124"
+  },
+  {
+    "file": "assets/figma/forest-wrong/imgGroup2.svg",
+    "width": "176.593",
+    "height": "158.34",
+    "viewBox": "0 0 176.593 158.34"
+  },
+  {
+    "file": "assets/figma/forest-wrong/imgProperty1Default.svg",
+    "width": "91",
+    "height": "86",
+    "viewBox": "0 0 91 86"
+  },
+  {
+    "file": "assets/figma/forest-wrong/imgVector.svg",
+    "width": "1133",
+    "height": "744",
+    "viewBox": "0 0 1133 744"
+  },
+  {
+    "file": "assets/figma/forest-wrong/imgVector1.svg",
+    "width": "1133",
+    "height": "94",
+    "viewBox": "0 0 1133 94"
+  },
+  {
+    "file": "assets/figma/forest-wrong/imgVector10.svg",
+    "width": "124",
+    "height": "124",
+    "viewBox": "0 0 124 124"
+  },
+  {
+    "file": "assets/figma/forest-wrong/imgVector11.svg",
+    "width": "65.0002",
+    "height": "33",
+    "viewBox": "0 0 65.0002 33"
+  },
+  {
+    "file": "assets/figma/forest-wrong/imgVector12.svg",
+    "width": "345",
+    "height": "81",
+    "viewBox": "0 0 345 81"
+  },
+  {
+    "file": "assets/figma/forest-wrong/imgVector13.svg",
+    "width": "51",
+    "height": "26",
+    "viewBox": "0 0 51 26"
+  },
+  {
+    "file": "assets/figma/forest-wrong/imgVector14.svg",
+    "width": "80",
+    "height": "80",
+    "viewBox": "0 0 80 80"
+  },
+  {
+    "file": "assets/figma/forest-wrong/imgVector15.svg",
+    "width": "86",
+    "height": "86",
+    "viewBox": "0 0 86 86"
+  },
+  {
+    "file": "assets/figma/forest-wrong/imgVector16.svg",
+    "width": "11",
+    "height": "36",
+    "viewBox": "0 0 11 36"
+  },
+  {
+    "file": "assets/figma/forest-wrong/imgVector17.svg",
+    "width": "30",
+    "height": "40",
+    "viewBox": "0 0 30 40"
+  },
+  {
+    "file": "assets/figma/forest-wrong/imgVector18.svg",
+    "width": "22",
+    "height": "42.0001",
+    "viewBox": "0 0 22 42.0001"
+  },
+  {
+    "file": "assets/figma/forest-wrong/imgVector19.svg",
+    "width": "165",
+    "height": "61",
+    "viewBox": "0 0 165 61"
+  },
+  {
+    "file": "assets/figma/forest-wrong/imgVector2.svg",
+    "width": "1133",
+    "height": "47",
+    "viewBox": "0 0 1133 47"
+  },
+  {
+    "file": "assets/figma/forest-wrong/imgVector20.svg",
+    "width": "34",
+    "height": "34",
+    "viewBox": "0 0 34 34"
+  },
+  {
+    "file": "assets/figma/forest-wrong/imgVector21.svg",
+    "width": "32",
+    "height": "32",
+    "viewBox": "0 0 32 32"
+  },
+  {
+    "file": "assets/figma/forest-wrong/imgVector3.svg",
+    "width": "240",
+    "height": "220",
+    "viewBox": "0 0 240 220"
+  },
+  {
+    "file": "assets/figma/forest-wrong/imgVector4.svg",
+    "width": "246",
+    "height": "226",
+    "viewBox": "0 0 246 226"
+  },
+  {
+    "file": "assets/figma/forest-wrong/imgVector5.svg",
+    "width": "88",
+    "height": "88",
+    "viewBox": "0 0 88 88"
+  },
+  {
+    "file": "assets/figma/forest-wrong/imgVector6.svg",
+    "width": "94",
+    "height": "94",
+    "viewBox": "0 0 94 94"
+  },
+  {
+    "file": "assets/figma/forest-wrong/imgVector7.svg",
+    "width": "751",
+    "height": "221",
+    "viewBox": "0 0 751 221"
+  },
+  {
+    "file": "assets/figma/forest-wrong/imgVector8.svg",
+    "width": "124",
+    "height": "124",
+    "viewBox": "0 0 124 124"
+  },
+  {
+    "file": "assets/figma/forest-wrong/imgVector9.svg",
+    "width": "132",
+    "height": "132",
+    "viewBox": "0 0 132 132"
+  },
+  {
+    "file": "assets/figma/numbers/imgApel.svg",
+    "width": "85",
+    "height": "101.562",
+    "viewBox": "0 0 85 101.562"
+  },
+  {
+    "file": "assets/figma/numbers/imgApel1.svg",
+    "width": "85",
+    "height": "101.562",
+    "viewBox": "0 0 85 101.562"
+  },
+  {
+    "file": "assets/figma/numbers/imgGroup.svg",
+    "width": "980",
+    "height": "96",
+    "viewBox": "0 0 980 96"
+  },
+  {
+    "file": "assets/figma/numbers/imgGroup1.svg",
+    "width": "188.771",
+    "height": "169.26",
+    "viewBox": "0 0 188.771 169.26"
+  },
+  {
+    "file": "assets/figma/numbers/imgGroup14.svg",
+    "width": "91",
+    "height": "86",
+    "viewBox": "0 0 91 86"
+  },
+  {
+    "file": "assets/figma/numbers/imgProperty1Default.svg",
+    "width": "91",
+    "height": "86",
+    "viewBox": "0 0 91 86"
+  },
+  {
+    "file": "assets/figma/numbers/imgVector.svg",
+    "width": "1133",
+    "height": "744",
+    "viewBox": "0 0 1133 744"
+  },
+  {
+    "file": "assets/figma/numbers/imgVector1.svg",
+    "width": "1133",
+    "height": "96",
+    "viewBox": "0 0 1133 96"
+  },
+  {
+    "file": "assets/figma/numbers/imgVector10.svg",
+    "width": "32",
+    "height": "32",
+    "viewBox": "0 0 32 32"
+  },
+  {
+    "file": "assets/figma/numbers/imgVector11.svg",
+    "width": "34",
+    "height": "34",
+    "viewBox": "0 0 34 34"
+  },
+  {
+    "file": "assets/figma/numbers/imgVector2.svg",
+    "width": "165",
+    "height": "61",
+    "viewBox": "0 0 165 61"
+  },
+  {
+    "file": "assets/figma/numbers/imgVector3.svg",
+    "width": "800",
+    "height": "250",
+    "viewBox": "0 0 800 250"
+  },
+  {
+    "file": "assets/figma/numbers/imgVector4.svg",
+    "width": "806",
+    "height": "256",
+    "viewBox": "0 0 806 256"
+  },
+  {
+    "file": "assets/figma/numbers/imgVector5.svg",
+    "width": "124",
+    "height": "124",
+    "viewBox": "0 0 124 124"
+  },
+  {
+    "file": "assets/figma/numbers/imgVector6.svg",
+    "width": "132",
+    "height": "132",
+    "viewBox": "0 0 132 132"
+  },
+  {
+    "file": "assets/figma/numbers/imgVector7.svg",
+    "width": "61.0002",
+    "height": "33",
+    "viewBox": "0 0 61.0002 33"
+  },
+  {
+    "file": "assets/figma/numbers/imgVector8.svg",
+    "width": "455",
+    "height": "81",
+    "viewBox": "0 0 455 81"
+  },
+  {
+    "file": "assets/figma/numbers/imgVector9.svg",
+    "width": "47",
+    "height": "26",
+    "viewBox": "0 0 47 26"
+  },
+  {
+    "file": "assets/figma/pause/imgApel.svg",
+    "width": "85",
+    "height": "101.562",
+    "viewBox": "0 0 85 101.562"
+  },
+  {
+    "file": "assets/figma/pause/imgApel1.svg",
+    "width": "85",
+    "height": "101.562",
+    "viewBox": "0 0 85 101.562"
+  },
+  {
+    "file": "assets/figma/pause/imgGroup.svg",
+    "width": "980",
+    "height": "96",
+    "viewBox": "0 0 980 96"
+  },
+  {
+    "file": "assets/figma/pause/imgGroup1.svg",
+    "width": "188.771",
+    "height": "169.26",
+    "viewBox": "0 0 188.771 169.26"
+  },
+  {
+    "file": "assets/figma/pause/imgProperty1Default.svg",
+    "width": "91",
+    "height": "86",
+    "viewBox": "0 0 91 86"
+  },
+  {
+    "file": "assets/figma/pause/imgVector.svg",
+    "width": "1133",
+    "height": "744",
+    "viewBox": "0 0 1133 744"
+  },
+  {
+    "file": "assets/figma/pause/imgVector1.svg",
+    "width": "1133",
+    "height": "96",
+    "viewBox": "0 0 1133 96"
+  },
+  {
+    "file": "assets/figma/pause/imgVector10.svg",
+    "width": "32",
+    "height": "32",
+    "viewBox": "0 0 32 32"
+  },
+  {
+    "file": "assets/figma/pause/imgVector11.svg",
+    "width": "32",
+    "height": "32",
+    "viewBox": "0 0 32 32"
+  },
+  {
+    "file": "assets/figma/pause/imgVector12.svg",
+    "width": "80",
+    "height": "80",
+    "viewBox": "0 0 80 80"
+  },
+  {
+    "file": "assets/figma/pause/imgVector13.svg",
+    "width": "86",
+    "height": "86",
+    "viewBox": "0 0 86 86"
+  },
+  {
+    "file": "assets/figma/pause/imgVector14.svg",
+    "width": "11",
+    "height": "36",
+    "viewBox": "0 0 11 36"
+  },
+  {
+    "file": "assets/figma/pause/imgVector15.svg",
+    "width": "1133",
+    "height": "744",
+    "viewBox": "0 0 1133 744"
+  },
+  {
+    "file": "assets/figma/pause/imgVector16.svg",
+    "width": "520",
+    "height": "480",
+    "viewBox": "0 0 520 480"
+  },
+  {
+    "file": "assets/figma/pause/imgVector17.svg",
+    "width": "526",
+    "height": "486",
+    "viewBox": "0 0 526 486"
+  },
+  {
+    "file": "assets/figma/pause/imgVector18.svg",
+    "width": "326",
+    "height": "90",
+    "viewBox": "0 0 326 90"
+  },
+  {
+    "file": "assets/figma/pause/imgVector19.svg",
+    "width": "400",
+    "height": "96",
+    "viewBox": "0 0 400 96"
+  },
+  {
+    "file": "assets/figma/pause/imgVector2.svg",
+    "width": "165",
+    "height": "61",
+    "viewBox": "0 0 165 61"
+  },
+  {
+    "file": "assets/figma/pause/imgVector20.svg",
+    "width": "406",
+    "height": "102",
+    "viewBox": "0 0 406 102"
+  },
+  {
+    "file": "assets/figma/pause/imgVector21.svg",
+    "width": "42",
+    "height": "48",
+    "viewBox": "0 0 42 48"
+  },
+  {
+    "file": "assets/figma/pause/imgVector22.svg",
+    "width": "400",
+    "height": "96",
+    "viewBox": "0 0 400 96"
+  },
+  {
+    "file": "assets/figma/pause/imgVector23.svg",
+    "width": "405",
+    "height": "101",
+    "viewBox": "0 0 405 101"
+  },
+  {
+    "file": "assets/figma/pause/imgVector24.svg",
+    "width": "50.5001",
+    "height": "51",
+    "viewBox": "0 0 50.5001 51"
+  },
+  {
+    "file": "assets/figma/pause/imgVector25.svg",
+    "width": "27",
+    "height": "23",
+    "viewBox": "0 0 27 23"
+  },
+  {
+    "file": "assets/figma/pause/imgVector26.svg",
+    "width": "48",
+    "height": "46",
+    "viewBox": "0 0 48 46"
+  },
+  {
+    "file": "assets/figma/pause/imgVector27.svg",
+    "width": "12",
+    "height": "16",
+    "viewBox": "0 0 12 16"
+  },
+  {
+    "file": "assets/figma/pause/imgVector3.svg",
+    "width": "800",
+    "height": "250",
+    "viewBox": "0 0 800 250"
+  },
+  {
+    "file": "assets/figma/pause/imgVector4.svg",
+    "width": "806",
+    "height": "256",
+    "viewBox": "0 0 806 256"
+  },
+  {
+    "file": "assets/figma/pause/imgVector5.svg",
+    "width": "124",
+    "height": "124",
+    "viewBox": "0 0 124 124"
+  },
+  {
+    "file": "assets/figma/pause/imgVector6.svg",
+    "width": "132",
+    "height": "132",
+    "viewBox": "0 0 132 132"
+  },
+  {
+    "file": "assets/figma/pause/imgVector7.svg",
+    "width": "61.0002",
+    "height": "33",
+    "viewBox": "0 0 61.0002 33"
+  },
+  {
+    "file": "assets/figma/pause/imgVector8.svg",
+    "width": "455",
+    "height": "81",
+    "viewBox": "0 0 455 81"
+  },
+  {
+    "file": "assets/figma/pause/imgVector9.svg",
+    "width": "47",
+    "height": "26",
+    "viewBox": "0 0 47 26"
+  },
+  {
+    "file": "assets/figma/pencil/imgGroup.svg",
+    "width": "990",
+    "height": "82",
+    "viewBox": "0 0 990 82"
+  },
+  {
+    "file": "assets/figma/pencil/imgGroup1.svg",
+    "width": "194.004",
+    "height": "278.005",
+    "viewBox": "0 0 194.004 278.005"
+  },
+  {
+    "file": "assets/figma/pencil/imgGroup2.svg",
+    "width": "176.593",
+    "height": "158.34",
+    "viewBox": "0 0 176.593 158.34"
+  },
+  {
+    "file": "assets/figma/pencil/imgIcons8Retry2.svg",
+    "width": "50",
+    "height": "50",
+    "viewBox": "0 0 50 50"
+  },
+  {
+    "file": "assets/figma/pencil/imgProperty1Default.svg",
+    "width": "91",
+    "height": "86",
+    "viewBox": "0 0 91 86"
+  },
+  {
+    "file": "assets/figma/pencil/imgVector.svg",
+    "width": "1133",
+    "height": "744",
+    "viewBox": "0 0 1133 744"
+  },
+  {
+    "file": "assets/figma/pencil/imgVector1.svg",
+    "width": "1133",
+    "height": "94",
+    "viewBox": "0 0 1133 94"
+  },
+  {
+    "file": "assets/figma/pencil/imgVector10.svg",
+    "width": "65.0002",
+    "height": "33",
+    "viewBox": "0 0 65.0002 33"
+  },
+  {
+    "file": "assets/figma/pencil/imgVector11.svg",
+    "width": "545",
+    "height": "81",
+    "viewBox": "0 0 545 81"
+  },
+  {
+    "file": "assets/figma/pencil/imgVector12.svg",
+    "width": "51",
+    "height": "26",
+    "viewBox": "0 0 51 26"
+  },
+  {
+    "file": "assets/figma/pencil/imgVector13.svg",
+    "width": "80",
+    "height": "80",
+    "viewBox": "0 0 80 80"
+  },
+  {
+    "file": "assets/figma/pencil/imgVector14.svg",
+    "width": "86",
+    "height": "86",
+    "viewBox": "0 0 86 86"
+  },
+  {
+    "file": "assets/figma/pencil/imgVector15.svg",
+    "width": "11",
+    "height": "36",
+    "viewBox": "0 0 11 36"
+  },
+  {
+    "file": "assets/figma/pencil/imgVector16.svg",
+    "width": "30",
+    "height": "40",
+    "viewBox": "0 0 30 40"
+  },
+  {
+    "file": "assets/figma/pencil/imgVector17.svg",
+    "width": "22",
+    "height": "42.0001",
+    "viewBox": "0 0 22 42.0001"
+  },
+  {
+    "file": "assets/figma/pencil/imgVector18.svg",
+    "width": "165",
+    "height": "61",
+    "viewBox": "0 0 165 61"
+  },
+  {
+    "file": "assets/figma/pencil/imgVector19.svg",
+    "width": "32",
+    "height": "32",
+    "viewBox": "0 0 32 32"
+  },
+  {
+    "file": "assets/figma/pencil/imgVector2.svg",
+    "width": "1133",
+    "height": "47",
+    "viewBox": "0 0 1133 47"
+  },
+  {
+    "file": "assets/figma/pencil/imgVector20.svg",
+    "width": "34",
+    "height": "34",
+    "viewBox": "0 0 34 34"
+  },
+  {
+    "file": "assets/figma/pencil/imgVector21.svg",
+    "width": "32",
+    "height": "32",
+    "viewBox": "0 0 32 32"
+  },
+  {
+    "file": "assets/figma/pencil/imgVector3.svg",
+    "width": "640",
+    "height": "360",
+    "viewBox": "0 0 640 360"
+  },
+  {
+    "file": "assets/figma/pencil/imgVector4.svg",
+    "width": "646",
+    "height": "366",
+    "viewBox": "0 0 646 366"
+  },
+  {
+    "file": "assets/figma/pencil/imgVector5.svg",
+    "width": "560",
+    "height": "3",
+    "viewBox": "0 0 560 3"
+  },
+  {
+    "file": "assets/figma/pencil/imgVector6.svg",
+    "width": "60",
+    "height": "60",
+    "viewBox": "0 0 60 60"
+  },
+  {
+    "file": "assets/figma/pencil/imgVector7.svg",
+    "width": "66",
+    "height": "66",
+    "viewBox": "0 0 66 66"
+  },
+  {
+    "file": "assets/figma/pencil/imgVector8.svg",
+    "width": "96",
+    "height": "96",
+    "viewBox": "0 0 96 96"
+  },
+  {
+    "file": "assets/figma/pencil/imgVector9.svg",
+    "width": "102",
+    "height": "102",
+    "viewBox": "0 0 102 102"
+  },
+  {
+    "file": "assets/figma/success/imgGroup.svg",
+    "width": "799.294",
+    "height": "217.165",
+    "viewBox": "0 0 799.294 217.165"
+  },
+  {
+    "file": "assets/figma/success/imgGroup1.svg",
+    "width": "229.653",
+    "height": "205.26",
+    "viewBox": "0 0 229.653 205.26"
+  },
+  {
+    "file": "assets/figma/success/imgGroup2.svg",
+    "width": "262.627",
+    "height": "205.26",
+    "viewBox": "0 0 262.627 205.26"
+  },
+  {
+    "file": "assets/figma/success/imgProperty1Default.svg",
+    "width": "91",
+    "height": "86",
+    "viewBox": "0 0 91 86"
+  },
+  {
+    "file": "assets/figma/success/imgVector.svg",
+    "width": "1133",
+    "height": "744",
+    "viewBox": "0 0 1133 744"
+  },
+  {
+    "file": "assets/figma/success/imgVector1.svg",
+    "width": "1133",
+    "height": "91",
+    "viewBox": "0 0 1133 91"
+  },
+  {
+    "file": "assets/figma/success/imgVector10.svg",
+    "width": "37",
+    "height": "37",
+    "viewBox": "0 0 37 37"
+  },
+  {
+    "file": "assets/figma/success/imgVector11.svg",
+    "width": "418",
+    "height": "54",
+    "viewBox": "0 0 418 54"
+  },
+  {
+    "file": "assets/figma/success/imgVector12.svg",
+    "width": "280",
+    "height": "76.875",
+    "viewBox": "0 0 280 76.875"
+  },
+  {
+    "file": "assets/figma/success/imgVector13.svg",
+    "width": "286",
+    "height": "82.875",
+    "viewBox": "0 0 286 82.875"
+  },
+  {
+    "file": "assets/figma/success/imgVector14.svg",
+    "width": "24",
+    "height": "27",
+    "viewBox": "0 0 24 27"
+  },
+  {
+    "file": "assets/figma/success/imgVector15.svg",
+    "width": "240",
+    "height": "76.875",
+    "viewBox": "0 0 240 76.875"
+  },
+  {
+    "file": "assets/figma/success/imgVector16.svg",
+    "width": "245",
+    "height": "81.875",
+    "viewBox": "0 0 245 81.875"
+  },
+  {
+    "file": "assets/figma/success/imgVector2.svg",
+    "width": "1133",
+    "height": "45",
+    "viewBox": "0 0 1133 45"
+  },
+  {
+    "file": "assets/figma/success/imgVector3.svg",
+    "width": "360",
+    "height": "360",
+    "viewBox": "0 0 360 360"
+  },
+  {
+    "file": "assets/figma/success/imgVector4.svg",
+    "width": "300",
+    "height": "300",
+    "viewBox": "0 0 300 300"
+  },
+  {
+    "file": "assets/figma/success/imgVector5.svg",
+    "width": "244.92",
+    "height": "233.22",
+    "viewBox": "0 0 244.92 233.22"
+  },
+  {
+    "file": "assets/figma/success/imgVector6.svg",
+    "width": "217.7",
+    "height": "207.2",
+    "viewBox": "0 0 217.7 207.2"
+  },
+  {
+    "file": "assets/figma/success/imgVector7.svg",
+    "width": "18",
+    "height": "18",
+    "viewBox": "0 0 18 18"
+  },
+  {
+    "file": "assets/figma/success/imgVector8.svg",
+    "width": "42",
+    "height": "15",
+    "viewBox": "0 0 42 15"
+  },
+  {
+    "file": "assets/figma/success/imgVector9.svg",
+    "width": "37",
+    "height": "37",
+    "viewBox": "0 0 37 37"
+  }
+]

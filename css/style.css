@@ -1,0 +1,81 @@
+@font-face {
+  font-family: "Fredoka";
+  src: url("../assets/fonts/fredoka-600.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Nunito Sans";
+  src: url("../assets/fonts/nunito-sans-700.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+}
+
+:root {
+  --sky: #6eaff7;
+  --ink: #29668b;
+  --lemon: #f0f87f;
+}
+
+* { box-sizing: border-box; }
+
+html, body { margin: 0; min-height: 100%; }
+
+body {
+  min-height: 100svh;
+  display: grid;
+  place-items: center;
+  background: #e8f3ff;
+  font-family: "Nunito Sans", sans-serif;
+}
+
+/* Seluruh layar mengikuti rasio gambar referensi tanpa diputar. */
+.game-screen {
+  position: relative;
+  width: min(100vw, calc(100svh * 446 / 277));
+  aspect-ratio: 446 / 277;
+  overflow: hidden;
+  background: var(--sky);
+  container-type: inline-size;
+  isolation: isolate;
+}
+
+.scene { display: block; width: 100%; height: 100%; }
+.title-art { font-family: "Fredoka", sans-serif; font-weight: 600; }
+.floating-symbols, .speech-label { font-family: "Nunito Sans", sans-serif; font-weight: 700; }
+
+.start-button {
+  position: absolute;
+  left: 35.65%;
+  top: 85.56%;
+  width: 28.7%;
+  height: 14.08%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 2.4cqw;
+  padding: 0 2cqw;
+  border: 0.68cqw solid #fff;
+  border-radius: 99px;
+  background: var(--lemon);
+  color: var(--ink);
+  font: 600 4.85cqw/1 "Fredoka", sans-serif;
+}
+
+.start-button svg { width: 4.1cqw; height: 5.4cqw; flex: none; }
+.start-button:focus-visible { outline: 0.6cqw solid var(--ink); outline-offset: 0.6cqw; }
+
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
+  border: 0;
+}

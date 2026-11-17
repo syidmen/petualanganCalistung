@@ -1,0 +1,3426 @@
+{
+  "level-hutan-huruf": [
+    {
+      "asset": "../assets/figma/forest/imgVector.svg",
+      "node": "50:148",
+      "name": null,
+      "x": 0.0,
+      "y": -1.6801075272240034e-05,
+      "width": 1133,
+      "height": 773.969,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/forest/imgGroup.svg",
+      "node": "50:149",
+      "name": null,
+      "x": 20.038746690203,
+      "y": -0.0010500672043010754,
+      "width": 529.922,
+      "height": 84,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/forest/imgVector1.svg",
+      "node": "50:156",
+      "name": null,
+      "x": 0.0,
+      "y": 24.18936491935484,
+      "width": 1133,
+      "height": 564.031,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/forest/imgVector2.svg",
+      "node": "50:157",
+      "name": null,
+      "x": -1.1494428508384824,
+      "y": 86.82688172043011,
+      "width": 320.062,
+      "height": 120.016,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/forest/imgVector3.svg",
+      "node": "50:158",
+      "name": null,
+      "x": 64.69896293027362,
+      "y": 34.138734879032256,
+      "width": 239.984,
+      "height": 100,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/forest/imgVector4.svg",
+      "node": "50:159",
+      "name": null,
+      "x": 11.470515225066196,
+      "y": 63.97954301075268,
+      "width": 14.0625,
+      "height": 59.9844,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/forest/imgVector5.svg",
+      "node": "50:160",
+      "name": null,
+      "x": 8.559962488967344,
+      "y": 56.58812163978495,
+      "width": 80,
+      "height": 80,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/forest/imgVector6.svg",
+      "node": "50:161",
+      "name": null,
+      "x": 7.409805825242718,
+      "y": 61.559143145161286,
+      "width": 56.0938,
+      "height": 56.0312,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/forest/imgVector6.svg",
+      "node": "50:162",
+      "name": null,
+      "x": 11.830454545454545,
+      "y": 61.56019321236559,
+      "width": 55.9844,
+      "height": 56.0312,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/forest/imgVector7.svg",
+      "node": "50:163",
+      "name": null,
+      "x": 14.119044571932921,
+      "y": 43.54838709677419,
+      "width": 12.0312,
+      "height": 46,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/forest/imgVector8.svg",
+      "node": "50:164",
+      "name": null,
+      "x": 11.830457855251545,
+      "y": 37.62915994623656,
+      "width": 64.0312,
+      "height": 64.0781,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/forest/imgVector7.svg",
+      "node": "50:165",
+      "name": null,
+      "x": 60.89957744924979,
+      "y": 32.800947580645165,
+      "width": 12.0312,
+      "height": 45.9844,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/forest/imgVector8.svg",
+      "node": "50:166",
+      "name": null,
+      "x": 58.60961165048544,
+      "y": 26.879620295698924,
+      "width": 63.9062,
+      "height": 64,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/forest/imgVector9.svg",
+      "node": "50:167",
+      "name": null,
+      "x": 87.37933142100619,
+      "y": 43.82035114247312,
+      "width": 13.9531,
+      "height": 55.9688,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/forest/imgVector10.svg",
+      "node": "50:168",
+      "name": null,
+      "x": 84.64047550750222,
+      "y": 36.69039650537634,
+      "width": 76.0312,
+      "height": 76.0469,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/forest/imgVector11.svg",
+      "node": "50:169",
+      "name": null,
+      "x": 83.57927074139452,
+      "y": 41.6687684811828,
+      "width": 52.0156,
+      "height": 52.0156,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/forest/imgVector11.svg",
+      "node": "50:170",
+      "name": null,
+      "x": 87.81994814651368,
+      "y": 41.6687684811828,
+      "width": 52.0156,
+      "height": 52.0156,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/forest/imgMaskGroup.svg",
+      "node": "50:172",
+      "name": null,
+      "x": 4.1495476610767845,
+      "y": 0.3990255376344086,
+      "width": 1089.94,
+      "height": 778,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/forest/imgMaskGroup1.svg",
+      "node": "50:184",
+      "name": null,
+      "x": 20.2993766548985,
+      "y": 33.063491263440866,
+      "width": 623.938,
+      "height": 414.609,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/forest/imgMaskGroup2.svg",
+      "node": "50:196",
+      "name": null,
+      "x": 21.621927405119152,
+      "y": 35.077494959677416,
+      "width": 593.969,
+      "height": 384.625,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/forest/imgVector12.svg",
+      "node": "50:208",
+      "name": null,
+      "x": 18.618988305383937,
+      "y": 80.90977654569892,
+      "width": 92.0156,
+      "height": 92.0469,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/forest/imgVector13.svg",
+      "node": "50:209",
+      "name": null,
+      "x": 18.265925639894085,
+      "y": 78.76133232526882,
+      "width": 100.016,
+      "height": 100.047,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/forest/imgVector14.svg",
+      "node": "50:211",
+      "name": null,
+      "x": 20.11115511915269,
+      "y": 91.31804267473117,
+      "width": 58.3281,
+      "height": 55.6094,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/forest/imgVector12.svg",
+      "node": "50:212",
+      "name": null,
+      "x": 43.338345101500444,
+      "y": 75.53868111559139,
+      "width": 92.0156,
+      "height": 91.9688,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/forest/imgVector13.svg",
+      "node": "50:213",
+      "name": null,
+      "x": 42.985971977052074,
+      "y": 73.3807879704301,
+      "width": 100.016,
+      "height": 100.047,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/forest/imgVector14.svg",
+      "node": "50:215",
+      "name": null,
+      "x": 44.819475948808474,
+      "y": 85.93644825268817,
+      "width": 58.3438,
+      "height": 55.6094,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/forest/imgVector15.svg",
+      "node": "50:216",
+      "name": null,
+      "x": 68.31560017652251,
+      "y": 54.16876680107527,
+      "width": 146.031,
+      "height": 146,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/forest/imgVector16.svg",
+      "node": "50:217",
+      "name": null,
+      "x": 69.98981134157106,
+      "y": 58.59794186827957,
+      "width": 107.984,
+      "height": 108.047,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/forest/imgVector17.svg",
+      "node": "50:218",
+      "name": null,
+      "x": 69.63813437775816,
+      "y": 56.18277049731183,
+      "width": 115.953,
+      "height": 116.016,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/forest/imgVector12.svg",
+      "node": "50:220",
+      "name": null,
+      "x": 45.979975728155345,
+      "y": 45.96983870967742,
+      "width": 92,
+      "height": 91.9688,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/forest/imgVector18.svg",
+      "node": "50:221",
+      "name": null,
+      "x": 45.62762025595764,
+      "y": 43.81194556451612,
+      "width": 100,
+      "height": 100.047,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/forest/imgVector19.svg",
+      "node": "50:223",
+      "name": null,
+      "x": 48.80916262135923,
+      "y": 58.596898521505366,
+      "width": 28,
+      "height": 22.0469,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/forest/imgVector20.svg",
+      "node": "50:224",
+      "name": null,
+      "x": 49.02912842012357,
+      "y": 56.2542002688172,
+      "width": 23.0312,
+      "height": 19.9375,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/forest/imgVector12.svg",
+      "node": "50:225",
+      "name": null,
+      "x": 25.679888570167698,
+      "y": 31.17859375,
+      "width": 92.0156,
+      "height": 92.0469,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/forest/imgVector18.svg",
+      "node": "50:226",
+      "name": null,
+      "x": 25.326825904677847,
+      "y": 29.032249663978494,
+      "width": 100.016,
+      "height": 100.047,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/forest/imgVector19.svg",
+      "node": "50:228",
+      "name": null,
+      "x": 28.509763901147394,
+      "y": 43.81930107526882,
+      "width": 28,
+      "height": 21.9688,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/forest/imgVector21.svg",
+      "node": "50:229",
+      "name": null,
+      "x": 28.728350617828774,
+      "y": 41.46190188172042,
+      "width": 23.0312,
+      "height": 20.0469,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/forest/imgVector22.svg",
+      "node": "50:237",
+      "name": null,
+      "x": 71.09993380406002,
+      "y": 6.655325940860216,
+      "width": 174.938,
+      "height": 77,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/forest/imgVector23.svg",
+      "node": "50:238",
+      "name": null,
+      "x": 73.01963702559576,
+      "y": 8.781712029569892,
+      "width": 47.6719,
+      "height": 45.5,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/forest/imgGroup1.svg",
+      "node": "50:243",
+      "name": null,
+      "x": 76.60868270079435,
+      "y": 70.98769321236558,
+      "width": 188.766,
+      "height": 169.25,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/forest/imgGroup7.svg",
+      "node": "89:236",
+      "name": null,
+      "x": 3.047081862312445,
+      "y": 5.308091397849462,
+      "width": 90.9375,
+      "height": 86.0156,
+      "rotation": -90
+    },
+    {
+      "asset": "../assets/figma/forest/imgProperty1Default.svg",
+      "node": "50:2",
+      "name": "Layar Permainan - Hutan Huruf",
+      "x": 88.92321270962049,
+      "y": 5.309139784946237,
+      "width": 91,
+      "height": 86,
+      "rotation": -90
+    }
+  ],
+  "kerajaan-angka": [
+    {
+      "asset": "../assets/figma/numbers/imgVector.svg",
+      "node": "50:417",
+      "name": null,
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1133,
+      "height": 744,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/numbers/imgGroup.svg",
+      "node": "50:418",
+      "name": null,
+      "x": 6.619616063548102,
+      "y": 13.169942876344088,
+      "width": 980.062,
+      "height": 96.0625,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/numbers/imgVector1.svg",
+      "node": "50:428",
+      "name": null,
+      "x": -0.0006895410414827891,
+      "y": 87.09782258064516,
+      "width": 1133,
+      "height": 95.9844,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/numbers/imgVector2.svg",
+      "node": "50:436",
+      "name": null,
+      "x": 72.23977272727274,
+      "y": 6.654275873655914,
+      "width": 164.953,
+      "height": 61,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/numbers/imgVector3.svg",
+      "node": "50:445",
+      "name": null,
+      "x": 14.739612753751105,
+      "y": 29.968926411290326,
+      "width": 800.016,
+      "height": 250.078,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/numbers/imgVector4.svg",
+      "node": "50:446",
+      "name": null,
+      "x": 14.47209289496911,
+      "y": 28.49883232526882,
+      "width": 806.078,
+      "height": 255.953,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/numbers/imgApel.svg",
+      "node": "50:447",
+      "name": null,
+      "x": 18.75827559576346,
+      "y": 32.379855510752684,
+      "width": 85.0156,
+      "height": 101.594,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/numbers/imgApel1.svg",
+      "node": "50:452",
+      "name": null,
+      "x": 28.019500220653132,
+      "y": 43.13992775537635,
+      "width": 85,
+      "height": 101.531,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/numbers/imgApel.svg",
+      "node": "50:457",
+      "name": null,
+      "x": 37.28968998234775,
+      "y": 32.380905577956995,
+      "width": 85,
+      "height": 101.594,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/numbers/imgApel1.svg",
+      "node": "50:462",
+      "name": null,
+      "x": 46.55987974404236,
+      "y": 43.13992775537635,
+      "width": 85,
+      "height": 101.531,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/numbers/imgApel.svg",
+      "node": "50:467",
+      "name": null,
+      "x": 55.8280019858782,
+      "y": 32.379855510752684,
+      "width": 85.0156,
+      "height": 101.594,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/numbers/imgApel1.svg",
+      "node": "50:472",
+      "name": null,
+      "x": 65.08922661076787,
+      "y": 43.13992775537635,
+      "width": 85,
+      "height": 101.531,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/numbers/imgApel.svg",
+      "node": "50:477",
+      "name": null,
+      "x": 74.35941637246248,
+      "y": 32.380905577956995,
+      "width": 85,
+      "height": 101.594,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/numbers/imgVector5.svg",
+      "node": "50:483",
+      "name": null,
+      "x": 22.767944616063545,
+      "y": 67.33765120967742,
+      "width": 124.094,
+      "height": 124.047,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/numbers/imgVector6.svg",
+      "node": "50:484",
+      "name": null,
+      "x": 22.415589143865844,
+      "y": 65.72162298387097,
+      "width": 132.094,
+      "height": 132.031,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/numbers/imgVector5.svg",
+      "node": "50:486",
+      "name": null,
+      "x": 37.3289993380406,
+      "y": 67.33870127688172,
+      "width": 124.078,
+      "height": 124.047,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/numbers/imgVector6.svg",
+      "node": "50:487",
+      "name": null,
+      "x": 36.97526478375993,
+      "y": 65.72057291666667,
+      "width": 132.078,
+      "height": 132.031,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/numbers/imgVector5.svg",
+      "node": "50:489",
+      "name": null,
+      "x": 51.89967453662842,
+      "y": 67.33975134408603,
+      "width": 123.969,
+      "height": 124.047,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/numbers/imgVector6.svg",
+      "node": "50:490",
+      "name": null,
+      "x": 51.54593998234775,
+      "y": 65.72162298387097,
+      "width": 131.969,
+      "height": 132.031,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/numbers/imgVector5.svg",
+      "node": "50:492",
+      "name": null,
+      "x": 66.4593501765225,
+      "y": 67.33870127688172,
+      "width": 124.078,
+      "height": 124.047,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/numbers/imgVector6.svg",
+      "node": "50:493",
+      "name": null,
+      "x": 66.10561562224184,
+      "y": 65.72057291666667,
+      "width": 132.078,
+      "height": 132.031,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/numbers/imgGroup1.svg",
+      "node": "50:495",
+      "name": null,
+      "x": 5.559090909090909,
+      "y": 73.93946572580646,
+      "width": 188.781,
+      "height": 169.312,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/numbers/imgVector7.svg",
+      "node": "50:513",
+      "name": null,
+      "x": 19.86981508125379,
+      "y": 87.40969590053764,
+      "width": 60.9531,
+      "height": 32.9531,
+      "rotation": 45.52000000000001
+    },
+    {
+      "asset": "../assets/figma/numbers/imgVector8.svg",
+      "node": "50:514",
+      "name": null,
+      "x": 22.72727824360106,
+      "y": 86.76495463709678,
+      "width": 455.078,
+      "height": 80.9531,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/numbers/imgVector9.svg",
+      "node": "50:515",
+      "name": null,
+      "x": 20.675199261199868,
+      "y": 88.02293346774194,
+      "width": 47,
+      "height": 26,
+      "rotation": 45.52000000000001
+    },
+    {
+      "asset": "../assets/figma/numbers/imgVector10.svg",
+      "node": "50:520",
+      "name": null,
+      "x": 77.40373786407767,
+      "y": 90.99042338709677,
+      "width": 31.9688,
+      "height": 32.0625,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/numbers/imgVector10.svg",
+      "node": "91:1646",
+      "name": null,
+      "x": 80.842480141218,
+      "y": 90.98937331989248,
+      "width": 32.1094,
+      "height": 32.0625,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/numbers/imgVector10.svg",
+      "node": "91:1647",
+      "name": null,
+      "x": 84.46463812886142,
+      "y": 90.99042338709677,
+      "width": 31.9688,
+      "height": 32.0625,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/numbers/imgVector10.svg",
+      "node": "50:521",
+      "name": null,
+      "x": 88.08472859664607,
+      "y": 90.99042338709677,
+      "width": 31.9688,
+      "height": 32.0625,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/numbers/imgGroup14.svg",
+      "node": "91:1853",
+      "name": null,
+      "x": 3.047081862312445,
+      "y": 5.308091397849462,
+      "width": 90.9375,
+      "height": 86.0156,
+      "rotation": -90
+    },
+    {
+      "asset": "../assets/figma/numbers/imgProperty1Default.svg",
+      "node": "50:372",
+      "name": "Layar Permainan - Kerajaan Angka",
+      "x": 88.9266604148279,
+      "y": 5.308091397849462,
+      "width": 90.9375,
+      "height": 86.0156,
+      "rotation": -90
+    },
+    {
+      "asset": "../assets/figma/numbers/imgVector11.svg",
+      "node": "91:2126",
+      "name": null,
+      "x": 73.69538614298322,
+      "y": 90.85601478494624,
+      "width": 33.9688,
+      "height": 34.0625,
+      "rotation": 0
+    }
+  ],
+  "taman-pensil": [
+    {
+      "asset": "../assets/figma/pencil/imgVector.svg",
+      "node": "51:645",
+      "name": null,
+      "x": 0.0,
+      "y": -4.968918010752688,
+      "width": 1133,
+      "height": 744,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/pencil/imgGroup.svg",
+      "node": "51:646",
+      "name": null,
+      "x": 8.828188437775815,
+      "y": 13.307501680107528,
+      "width": 989.922,
+      "height": 82,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/pencil/imgVector1.svg",
+      "node": "51:656",
+      "name": null,
+      "x": 0.0,
+      "y": 87.3697883064516,
+      "width": 1133,
+      "height": 93.9688,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/pencil/imgVector2.svg",
+      "node": "51:657",
+      "name": null,
+      "x": 0.0,
+      "y": 93.67859879032258,
+      "width": 1133,
+      "height": 47.0312,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/pencil/imgVector3.svg",
+      "node": "51:674",
+      "name": null,
+      "x": 19.418143203883496,
+      "y": 29.438642473118282,
+      "width": 639.938,
+      "height": 359.953,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/pencil/imgVector4.svg",
+      "node": "51:675",
+      "name": null,
+      "x": 19.153359443954106,
+      "y": 27.955913978494625,
+      "width": 645.938,
+      "height": 366.016,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/pencil/imgVector5.svg",
+      "node": "51:676",
+      "name": null,
+      "x": 22.94928287731686,
+      "y": 34.87693212365591,
+      "width": 559.938,
+      "height": 3,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/pencil/imgVector5.svg",
+      "node": "51:677",
+      "name": null,
+      "x": 22.94928287731686,
+      "y": 69.8273689516129,
+      "width": 559.938,
+      "height": 3,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/pencil/imgGroup1.svg",
+      "node": "51:678",
+      "name": null,
+      "x": 39.10319395410415,
+      "y": 33.603175403225805,
+      "width": 193.906,
+      "height": 278.016,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/pencil/imgVector6.svg",
+      "node": "51:683",
+      "name": null,
+      "x": 41.43865953221536,
+      "y": 47.84946068548387,
+      "width": 59.9531,
+      "height": 59.9844,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/pencil/imgVector7.svg",
+      "node": "51:684",
+      "name": null,
+      "x": 41.175252647837596,
+      "y": 46.36676579301075,
+      "width": 65.9219,
+      "height": 66.0469,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/pencil/imgVector8.svg",
+      "node": "51:685",
+      "name": null,
+      "x": 79.43995366284202,
+      "y": 30.509702620967744,
+      "width": 95.9844,
+      "height": 96,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/pencil/imgVector9.svg",
+      "node": "51:686",
+      "name": null,
+      "x": 79.17449801412181,
+      "y": 29.03648353494624,
+      "width": 101.984,
+      "height": 101.984,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/pencil/imgVector8.svg",
+      "node": "51:690",
+      "name": null,
+      "x": 79.43995366284202,
+      "y": 52.01927923387096,
+      "width": 95.9844,
+      "height": 96,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/pencil/imgVector9.svg",
+      "node": "51:691",
+      "name": null,
+      "x": 79.17518755516329,
+      "y": 50.53658434139785,
+      "width": 101.984,
+      "height": 102,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/pencil/imgGroup2.svg",
+      "node": "51:695",
+      "name": null,
+      "x": 3.349773830538394,
+      "y": 73.95625,
+      "width": 176.641,
+      "height": 158.406,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/pencil/imgVector10.svg",
+      "node": "51:713",
+      "name": null,
+      "x": 16.550366284201235,
+      "y": 84.51780913978494,
+      "width": 65.0312,
+      "height": 33,
+      "rotation": 22.180000000000007
+    },
+    {
+      "asset": "../assets/figma/pencil/imgVector11.svg",
+      "node": "51:714",
+      "name": null,
+      "x": 20.340087157987643,
+      "y": 83.53284442204301,
+      "width": 545.078,
+      "height": 81.0469,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/pencil/imgVector12.svg",
+      "node": "51:715",
+      "name": null,
+      "x": 17.387465798764342,
+      "y": 84.9021320564516,
+      "width": 51.0469,
+      "height": 25.9844,
+      "rotation": 22.180000000000007
+    },
+    {
+      "asset": "../assets/figma/pencil/imgVector13.svg",
+      "node": "51:741",
+      "name": null,
+      "x": 3.529072153574581,
+      "y": 6.449511088709678,
+      "width": 80.0156,
+      "height": 79.9844,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/pencil/imgVector14.svg",
+      "node": "51:742",
+      "name": null,
+      "x": 3.2635988526037067,
+      "y": 4.974168346774194,
+      "width": 86.0156,
+      "height": 86,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/pencil/imgVector15.svg",
+      "node": "51:743",
+      "name": null,
+      "x": 5.739739629302736,
+      "y": 8.329136424731184,
+      "width": 11,
+      "height": 36.0312,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/pencil/imgVector15.svg",
+      "node": "51:744",
+      "name": null,
+      "x": 7.409808031774051,
+      "y": 8.329136424731184,
+      "width": 11,
+      "height": 36.0312,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/pencil/imgVector16.svg",
+      "node": "52:965",
+      "name": null,
+      "x": 81.20448918799646,
+      "y": 33.20102654569892,
+      "width": 29.9219,
+      "height": 40.0156,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/pencil/imgVector17.svg",
+      "node": "52:966",
+      "name": null,
+      "x": 84.28260260370698,
+      "y": 33.06661794354839,
+      "width": 22.1406,
+      "height": 42.0156,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/pencil/imgVector18.svg",
+      "node": "51:751",
+      "name": null,
+      "x": 72.23977272727274,
+      "y": 6.654275873655914,
+      "width": 164.953,
+      "height": 61,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/pencil/imgVector19.svg",
+      "node": "52:973",
+      "name": null,
+      "x": 73.96430714916151,
+      "y": 90.99042338709677,
+      "width": 31.9688,
+      "height": 32.0625,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/pencil/imgVector19.svg",
+      "node": "52:974",
+      "name": null,
+      "x": 77.49475728155339,
+      "y": 90.99042338709677,
+      "width": 31.9688,
+      "height": 32.0625,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/pencil/imgVector20.svg",
+      "node": "52:975",
+      "name": null,
+      "x": 80.93556707855251,
+      "y": 90.85601478494624,
+      "width": 33.9688,
+      "height": 34.0625,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/pencil/imgVector21.svg",
+      "node": "52:976",
+      "name": null,
+      "x": 84.55427846425418,
+      "y": 90.99042338709677,
+      "width": 31.9688,
+      "height": 32.0625,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/pencil/imgVector21.svg",
+      "node": "52:977",
+      "name": null,
+      "x": 88.08472859664607,
+      "y": 90.99042338709677,
+      "width": 31.9688,
+      "height": 32.0625,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/pencil/imgIcons8Retry2.svg",
+      "node": "59:252",
+      "name": null,
+      "x": 81.47616835834069,
+      "y": 54.04696068548387,
+      "width": 49.9219,
+      "height": 49.9531,
+      "rotation": -16.560000000000002
+    },
+    {
+      "asset": "../assets/figma/pencil/imgProperty1Default.svg",
+      "node": "51:535",
+      "name": "Layar Permainan - Taman Pensil",
+      "x": 88.9266604148279,
+      "y": 5.308091397849462,
+      "width": 90.9375,
+      "height": 86.0156,
+      "rotation": -90
+    }
+  ],
+  "pause": [
+    {
+      "asset": "../assets/figma/pause/imgVector.svg",
+      "node": "91:1651",
+      "name": null,
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1133,
+      "height": 744,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/pause/imgGroup.svg",
+      "node": "91:1652",
+      "name": null,
+      "x": 6.619616063548102,
+      "y": 13.169942876344088,
+      "width": 980.062,
+      "height": 96.0625,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/pause/imgVector1.svg",
+      "node": "91:1662",
+      "name": null,
+      "x": -0.0006895410414827891,
+      "y": 87.09782258064516,
+      "width": 1133,
+      "height": 95.9844,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/pause/imgVector2.svg",
+      "node": "91:1663",
+      "name": null,
+      "x": 72.23977272727274,
+      "y": 6.654275873655914,
+      "width": 164.953,
+      "height": 61,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/pause/imgVector3.svg",
+      "node": "91:1668",
+      "name": null,
+      "x": 14.739612753751105,
+      "y": 29.968926411290326,
+      "width": 800.016,
+      "height": 250.078,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/pause/imgVector4.svg",
+      "node": "91:1669",
+      "name": null,
+      "x": 14.47209289496911,
+      "y": 28.49883232526882,
+      "width": 806.078,
+      "height": 255.953,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/pause/imgApel.svg",
+      "node": "91:1670",
+      "name": null,
+      "x": 18.75827559576346,
+      "y": 32.379855510752684,
+      "width": 85.0156,
+      "height": 101.594,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/pause/imgApel1.svg",
+      "node": "91:1675",
+      "name": null,
+      "x": 28.019500220653132,
+      "y": 43.13992775537635,
+      "width": 85,
+      "height": 101.531,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/pause/imgApel.svg",
+      "node": "91:1680",
+      "name": null,
+      "x": 37.28968998234775,
+      "y": 32.380905577956995,
+      "width": 85,
+      "height": 101.594,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/pause/imgApel1.svg",
+      "node": "91:1685",
+      "name": null,
+      "x": 46.55987974404236,
+      "y": 43.13992775537635,
+      "width": 85,
+      "height": 101.531,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/pause/imgApel.svg",
+      "node": "91:1690",
+      "name": null,
+      "x": 55.8280019858782,
+      "y": 32.379855510752684,
+      "width": 85.0156,
+      "height": 101.594,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/pause/imgApel1.svg",
+      "node": "91:1695",
+      "name": null,
+      "x": 65.08922661076787,
+      "y": 43.13992775537635,
+      "width": 85,
+      "height": 101.531,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/pause/imgApel.svg",
+      "node": "91:1700",
+      "name": null,
+      "x": 74.35941637246248,
+      "y": 32.380905577956995,
+      "width": 85,
+      "height": 101.594,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/pause/imgVector5.svg",
+      "node": "91:1706",
+      "name": null,
+      "x": 22.767944616063545,
+      "y": 67.33765120967742,
+      "width": 124.094,
+      "height": 124.047,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/pause/imgVector6.svg",
+      "node": "91:1707",
+      "name": null,
+      "x": 22.415589143865844,
+      "y": 65.72162298387097,
+      "width": 132.094,
+      "height": 132.031,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/pause/imgVector5.svg",
+      "node": "91:1709",
+      "name": null,
+      "x": 37.3289993380406,
+      "y": 67.33870127688172,
+      "width": 124.078,
+      "height": 124.047,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/pause/imgVector6.svg",
+      "node": "91:1710",
+      "name": null,
+      "x": 36.97526478375993,
+      "y": 65.72057291666667,
+      "width": 132.078,
+      "height": 132.031,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/pause/imgVector5.svg",
+      "node": "91:1712",
+      "name": null,
+      "x": 51.89967453662842,
+      "y": 67.33975134408603,
+      "width": 123.969,
+      "height": 124.047,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/pause/imgVector6.svg",
+      "node": "91:1713",
+      "name": null,
+      "x": 51.54593998234775,
+      "y": 65.72162298387097,
+      "width": 131.969,
+      "height": 132.031,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/pause/imgVector5.svg",
+      "node": "91:1715",
+      "name": null,
+      "x": 66.4593501765225,
+      "y": 67.33870127688172,
+      "width": 124.078,
+      "height": 124.047,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/pause/imgVector6.svg",
+      "node": "91:1716",
+      "name": null,
+      "x": 66.10561562224184,
+      "y": 65.72057291666667,
+      "width": 132.078,
+      "height": 132.031,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/pause/imgGroup1.svg",
+      "node": "91:1718",
+      "name": null,
+      "x": 5.559090909090909,
+      "y": 73.93946572580646,
+      "width": 188.781,
+      "height": 169.312,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/pause/imgVector7.svg",
+      "node": "91:1736",
+      "name": null,
+      "x": 19.86981508125379,
+      "y": 87.40969590053764,
+      "width": 60.9531,
+      "height": 32.9531,
+      "rotation": 45.52000000000001
+    },
+    {
+      "asset": "../assets/figma/pause/imgVector8.svg",
+      "node": "91:1737",
+      "name": null,
+      "x": 22.72727824360106,
+      "y": 86.76495463709678,
+      "width": 455.078,
+      "height": 80.9531,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/pause/imgVector9.svg",
+      "node": "91:1738",
+      "name": null,
+      "x": 20.675199261199868,
+      "y": 88.02293346774194,
+      "width": 47,
+      "height": 26,
+      "rotation": 45.52000000000001
+    },
+    {
+      "asset": "../assets/figma/pause/imgVector10.svg",
+      "node": "91:1740",
+      "name": null,
+      "x": 73.96430714916151,
+      "y": 90.99042338709677,
+      "width": 31.9688,
+      "height": 32.0625,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/pause/imgVector11.svg",
+      "node": "91:1741",
+      "name": null,
+      "x": 77.40373786407767,
+      "y": 90.99042338709677,
+      "width": 31.9688,
+      "height": 32.0625,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/pause/imgVector11.svg",
+      "node": "91:1742",
+      "name": null,
+      "x": 80.842480141218,
+      "y": 90.98937331989248,
+      "width": 32.1094,
+      "height": 32.0625,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/pause/imgVector11.svg",
+      "node": "91:1743",
+      "name": null,
+      "x": 84.46463812886142,
+      "y": 90.99042338709677,
+      "width": 31.9688,
+      "height": 32.0625,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/pause/imgVector11.svg",
+      "node": "91:1744",
+      "name": null,
+      "x": 88.08472859664607,
+      "y": 90.99042338709677,
+      "width": 31.9688,
+      "height": 32.0625,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/pause/imgVector12.svg",
+      "node": "91:1745",
+      "name": null,
+      "x": 3.529072153574581,
+      "y": 6.449511088709678,
+      "width": 80.0156,
+      "height": 79.9844,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/pause/imgVector13.svg",
+      "node": "91:1746",
+      "name": null,
+      "x": 3.2635988526037067,
+      "y": 4.974168346774194,
+      "width": 86.0156,
+      "height": 86,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/pause/imgVector14.svg",
+      "node": "91:1747",
+      "name": null,
+      "x": 5.739739629302736,
+      "y": 8.329136424731184,
+      "width": 11,
+      "height": 36.0312,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/pause/imgVector14.svg",
+      "node": "91:1748",
+      "name": null,
+      "x": 7.409808031774051,
+      "y": 8.329136424731184,
+      "width": 11,
+      "height": 36.0312,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/pause/imgProperty1Default.svg",
+      "node": "91:1650",
+      "name": "Pause - Kerajaan Angka",
+      "x": 88.9266604148279,
+      "y": 5.308091397849462,
+      "width": 90.9375,
+      "height": 86.0156,
+      "rotation": -90
+    },
+    {
+      "asset": "../assets/figma/pause/imgVector15.svg",
+      "node": "91:1832",
+      "name": null,
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1133,
+      "height": 744,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/pause/imgVector16.svg",
+      "node": "91:1833",
+      "name": null,
+      "x": 26.479733009708738,
+      "y": 23.118262768817203,
+      "width": 519.938,
+      "height": 479.969,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/pause/imgVector17.svg",
+      "node": "91:1834",
+      "name": null,
+      "x": 26.21358120035304,
+      "y": 21.10425067204301,
+      "width": 525.969,
+      "height": 486,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/pause/imgVector18.svg",
+      "node": "91:1835",
+      "name": null,
+      "x": 35.0335006619594,
+      "y": 18.146209677419357,
+      "width": 326.094,
+      "height": 89.9844,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/pause/imgVector19.svg",
+      "node": "91:1837",
+      "name": null,
+      "x": 31.76922992056487,
+      "y": 35.747437836021504,
+      "width": 400.078,
+      "height": 96.0625,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/pause/imgVector20.svg",
+      "node": "91:1838",
+      "name": null,
+      "x": 31.505135701676966,
+      "y": 34.2763188844086,
+      "width": 406.078,
+      "height": 101.984,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/pause/imgVector21.svg",
+      "node": "91:1839",
+      "name": null,
+      "x": 35.39621248896734,
+      "y": 38.03658266129032,
+      "width": 41.9062,
+      "height": 48.0469,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/pause/imgVector22.svg",
+      "node": "91:1841",
+      "name": null,
+      "x": 31.769919461606356,
+      "y": 52.959087701612894,
+      "width": 400.078,
+      "height": 95.9844,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/pause/imgVector23.svg",
+      "node": "91:1842",
+      "name": null,
+      "x": 31.547898278905564,
+      "y": 51.54570732526882,
+      "width": 405.109,
+      "height": 100.953,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/pause/imgVector24.svg",
+      "node": "91:1843",
+      "name": null,
+      "x": 34.86043799646955,
+      "y": 54.550992943548394,
+      "width": 50.5156,
+      "height": 50.9531,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/pause/imgVector25.svg",
+      "node": "91:1844",
+      "name": null,
+      "x": 37.11730582524272,
+      "y": 54.6360500672043,
+      "width": 26.8906,
+      "height": 23.0312,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/pause/imgVector22.svg",
+      "node": "91:1846",
+      "name": null,
+      "x": 31.769919461606356,
+      "y": 70.1591885080645,
+      "width": 400.078,
+      "height": 95.9844,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/pause/imgVector23.svg",
+      "node": "91:1847",
+      "name": null,
+      "x": 31.54720873786408,
+      "y": 68.75313340053764,
+      "width": 405.109,
+      "height": 100.969,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/pause/imgVector26.svg",
+      "node": "91:1848",
+      "name": null,
+      "x": 35.12177074139453,
+      "y": 72.85051411290323,
+      "width": 48.0938,
+      "height": 45.9531,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/pause/imgVector27.svg",
+      "node": "91:1849",
+      "name": null,
+      "x": 36.7201312886143,
+      "y": 76.60975470430108,
+      "width": 12.0312,
+      "height": 16.0156,
+      "rotation": 0
+    }
+  ],
+  "hasil-berhasil": [
+    {
+      "asset": "../assets/figma/success/imgVector.svg",
+      "node": "91:1075",
+      "name": null,
+      "x": 0.0,
+      "y": 0.1281081989247312,
+      "width": 1133,
+      "height": 744,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/success/imgVector1.svg",
+      "node": "91:1076",
+      "name": null,
+      "x": -0.0006895410414827891,
+      "y": 87.89797379032258,
+      "width": 1133,
+      "height": 90.9844,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/success/imgVector2.svg",
+      "node": "91:1077",
+      "name": null,
+      "x": 0.0,
+      "y": 94.08812163978494,
+      "width": 1133,
+      "height": 44.9375,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/success/imgGroup.svg",
+      "node": "91:1078",
+      "name": null,
+      "x": 14.739618270079433,
+      "y": 13.16990927419355,
+      "width": 799.344,
+      "height": 217.188,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/success/imgVector3.svg",
+      "node": "91:1087",
+      "name": null,
+      "x": 34.25018203883495,
+      "y": 15.859156586021502,
+      "width": 359.969,
+      "height": 360.047,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/success/imgVector4.svg",
+      "node": "91:1088",
+      "name": null,
+      "x": 36.8897672109444,
+      "y": 19.889331317204302,
+      "width": 300.031,
+      "height": 300.078,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/success/imgVector5.svg",
+      "node": "91:1089",
+      "name": null,
+      "x": 39.32729479258606,
+      "y": 22.757039650537635,
+      "width": 244.906,
+      "height": 233.219,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/success/imgVector6.svg",
+      "node": "91:1090",
+      "name": null,
+      "x": 40.524321491615176,
+      "y": 24.672370631720426,
+      "width": 217.672,
+      "height": 207.172,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/success/imgVector7.svg",
+      "node": "91:1091",
+      "name": null,
+      "x": 47.749340247131514,
+      "y": 36.15801747311828,
+      "width": 18.0312,
+      "height": 18.0312,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/success/imgVector7.svg",
+      "node": "91:1092",
+      "name": null,
+      "x": 50.929503530450134,
+      "y": 36.15801747311828,
+      "width": 18.0312,
+      "height": 18.0312,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/success/imgVector8.svg",
+      "node": "91:1093",
+      "name": null,
+      "x": 48.27476721094439,
+      "y": 40.996725470430114,
+      "width": 42.0469,
+      "height": 15.0156,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/success/imgVector9.svg",
+      "node": "91:1094",
+      "name": null,
+      "x": 41.440037511032656,
+      "y": 58.17581989247312,
+      "width": 36.9375,
+      "height": 36.9688,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/success/imgVector9.svg",
+      "node": "91:1095",
+      "name": null,
+      "x": 45.0601279788173,
+      "y": 58.135917338709675,
+      "width": 36.9375,
+      "height": 36.9688,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/success/imgVector9.svg",
+      "node": "91:1096",
+      "name": null,
+      "x": 48.499558693733455,
+      "y": 58.135917338709675,
+      "width": 36.9375,
+      "height": 36.9688,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/success/imgVector10.svg",
+      "node": "91:1097",
+      "name": null,
+      "x": 52.027941306266555,
+      "y": 58.17476982526881,
+      "width": 37.0781,
+      "height": 36.9688,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/success/imgVector10.svg",
+      "node": "91:1098",
+      "name": null,
+      "x": 55.558391438658425,
+      "y": 58.17476982526881,
+      "width": 37.0781,
+      "height": 36.9688,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/success/imgVector11.svg",
+      "node": "91:1099",
+      "name": null,
+      "x": 31.54788172992056,
+      "y": 66.73387432795698,
+      "width": 418.125,
+      "height": 54.0312,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/success/imgGroup1.svg",
+      "node": "91:1101",
+      "name": null,
+      "x": 5.469434024713151,
+      "y": 35.90809811827957,
+      "width": 229.672,
+      "height": 205.25,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/success/imgGroup2.svg",
+      "node": "91:1119",
+      "name": null,
+      "x": 70.69865401588703,
+      "y": 35.769514448924724,
+      "width": 262.656,
+      "height": 205.234,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/success/imgVector12.svg",
+      "node": "91:1144",
+      "name": null,
+      "x": 37.693778928401514,
+      "y": 82.01550235215055,
+      "width": 279.984,
+      "height": 76.9062,
+      "rotation": 0.0799999999999983
+    },
+    {
+      "asset": "../assets/figma/success/imgVector13.svg",
+      "node": "91:1145",
+      "name": null,
+      "x": 37.43036187113857,
+      "y": 80.00357022849462,
+      "width": 285.953,
+      "height": 82.8125,
+      "rotation": 0.0799999999999983
+    },
+    {
+      "asset": "../assets/figma/success/imgVector14.svg",
+      "node": "91:1147",
+      "name": null,
+      "x": 57.678730141218004,
+      "y": 83.93502520161292,
+      "width": 24.0156,
+      "height": 27.0312,
+      "rotation": 0
+    },
+    {
+      "asset": "../assets/figma/success/imgVector15.svg",
+      "node": "91:1149",
+      "name": null,
+      "x": 12.624133936451894,
+      "y": 82.0123504704301,
+      "width": 239.984,
+      "height": 76.8906,
+      "rotation": 0.0799999999999983
+    },
+    {
+      "asset": "../assets/figma/success/imgVector16.svg",
+      "node": "91:1150",
+      "name": null,
+      "x": 12.405538393645191,
+      "y": 80.86672547043011,
+      "width": 244.953,
+      "height": 81.875,
+      "rotation": 0.0799999999999983
+    },
+    {
+      "asset": "../assets/figma/success/imgVector15.svg",
+      "node": "91:1153",
+      "name": null,
+      "x": 66.28352824360107,
+      "y": 81.20065020161292,
+      "width": 240.109,
+      "height": 76.9062,
+      "rotation": 0.0799999999999983
+    },
+    {
+      "asset": "../assets/figma/success/imgVector16.svg",
+      "node": "91:1154",
+      "name": null,
+      "x": 66.0635536187114,
+      "y": 80.06762674967447,
+      "width": 245.078,
+      "height": 81.7969,
+      "rotation": 0.0799999999999983
+    },
+    {
+      "asset": "../assets/figma/success/imgProperty1Default.svg",
+      "node": "91:1074",
+      "name": "Hasil",
+      "x": 88.92321270962049,
+      "y": 5.309139784946237,
+      "width": 91,
+      "height": 86,
+      "rotation": -90
+    }
+  ],
+  "hasil-gagal": [
+    {
+      "asset": "../assets/figma/failure/imgVector.svg",
+      "node": "91:1158",
+      "name": null,
+      "x": 0.0,
+      "y": 0.1281081989247312,
+      "width": 1133,
+      "height": 744,
+      "rotation": 0,
+      "matrix": [
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "asset": "../assets/figma/failure/imgVector1.svg",
+      "node": "91:1159",
+      "name": null,
+      "x": -0.0006895410414827891,
+      "y": 87.89797379032258,
+      "width": 1133,
+      "height": 90.9844,
+      "rotation": 0,
+      "matrix": [
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "asset": "../assets/figma/failure/imgVector2.svg",
+      "node": "91:1160",
+      "name": null,
+      "x": 0.0,
+      "y": 94.08812163978494,
+      "width": 1133,
+      "height": 44.9375,
+      "rotation": 0,
+      "matrix": [
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "asset": "../assets/figma/failure/imgGroup.svg",
+      "node": "91:1161",
+      "name": null,
+      "x": 14.739618270079433,
+      "y": 13.16990927419355,
+      "width": 799.344,
+      "height": 217.188,
+      "rotation": 0,
+      "matrix": [
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "asset": "../assets/figma/failure/imgVector3.svg",
+      "node": "91:1170",
+      "name": null,
+      "x": 34.24949249779347,
+      "y": 16.129049059139785,
+      "width": 359.969,
+      "height": 360.031,
+      "rotation": 0,
+      "matrix": [
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "asset": "../assets/figma/failure/imgVector4.svg",
+      "node": "91:1171",
+      "name": null,
+      "x": 36.8897672109444,
+      "y": 19.889331317204302,
+      "width": 300.031,
+      "height": 300.078,
+      "rotation": 0,
+      "matrix": [
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "asset": "../assets/figma/failure/imgVector5.svg",
+      "node": "91:1172",
+      "name": null,
+      "x": 39.32729479258606,
+      "y": 22.757039650537635,
+      "width": 244.906,
+      "height": 233.219,
+      "rotation": 0,
+      "matrix": [
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "asset": "../assets/figma/failure/imgVector6.svg",
+      "node": "91:1173",
+      "name": null,
+      "x": 40.524321491615176,
+      "y": 24.672370631720426,
+      "width": 217.672,
+      "height": 207.172,
+      "rotation": 0,
+      "matrix": [
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "asset": "../assets/figma/failure/imgVector7.svg",
+      "node": "91:1174",
+      "name": null,
+      "x": 47.749340247131514,
+      "y": 36.15801747311828,
+      "width": 18.0312,
+      "height": 18.0312,
+      "rotation": 0,
+      "matrix": [
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "asset": "../assets/figma/failure/imgVector7.svg",
+      "node": "91:1175",
+      "name": null,
+      "x": 50.929503530450134,
+      "y": 36.15801747311828,
+      "width": 18.0312,
+      "height": 18.0312,
+      "rotation": 0,
+      "matrix": [
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "asset": "../assets/figma/failure/imgVector8.svg",
+      "node": "91:1176",
+      "name": null,
+      "x": 48.27476721094439,
+      "y": 40.996725470430114,
+      "width": 42.0469,
+      "height": 15.0156,
+      "rotation": 0,
+      "matrix": [
+        1,
+        0,
+        0,
+        -1
+      ]
+    },
+    {
+      "asset": "../assets/figma/failure/imgVector9.svg",
+      "node": "91:1177",
+      "name": null,
+      "x": 41.440037511032656,
+      "y": 58.17581989247312,
+      "width": 36.9375,
+      "height": 36.9688,
+      "rotation": 0,
+      "matrix": [
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "asset": "../assets/figma/failure/imgVector9.svg",
+      "node": "91:1178",
+      "name": null,
+      "x": 45.0601279788173,
+      "y": 58.135917338709675,
+      "width": 36.9375,
+      "height": 36.9688,
+      "rotation": 0,
+      "matrix": [
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "asset": "../assets/figma/failure/imgVector10.svg",
+      "node": "91:1179",
+      "name": null,
+      "x": 52.027941306266555,
+      "y": 58.17476982526881,
+      "width": 37.0781,
+      "height": 36.9688,
+      "rotation": 0,
+      "matrix": [
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "asset": "../assets/figma/failure/imgVector10.svg",
+      "node": "91:1180",
+      "name": null,
+      "x": 48.591266548985,
+      "y": 58.13696740591398,
+      "width": 36.9219,
+      "height": 36.9688,
+      "rotation": 0,
+      "matrix": [
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "asset": "../assets/figma/failure/imgVector10.svg",
+      "node": "91:1181",
+      "name": null,
+      "x": 55.558391438658425,
+      "y": 58.17476982526881,
+      "width": 37.0781,
+      "height": 36.9688,
+      "rotation": 0,
+      "matrix": [
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "asset": "../assets/figma/failure/imgVector11.svg",
+      "node": "91:1182",
+      "name": null,
+      "x": 31.54788172992056,
+      "y": 66.73387432795698,
+      "width": 418.125,
+      "height": 54.0312,
+      "rotation": 0,
+      "matrix": [
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "asset": "../assets/figma/failure/imgGroup1.svg",
+      "node": "91:1184",
+      "name": null,
+      "x": 5.469434024713151,
+      "y": 35.90809811827957,
+      "width": 229.672,
+      "height": 205.25,
+      "rotation": 0,
+      "matrix": [
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "asset": "../assets/figma/failure/imgGroup2.svg",
+      "node": "91:1202",
+      "name": null,
+      "x": 70.69865401588703,
+      "y": 35.769514448924724,
+      "width": 262.656,
+      "height": 205.234,
+      "rotation": 0,
+      "matrix": [
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "asset": "../assets/figma/failure/imgVector12.svg",
+      "node": "91:1227",
+      "name": null,
+      "x": 37.693778928401514,
+      "y": 82.01550235215055,
+      "width": 279.984,
+      "height": 76.9062,
+      "rotation": 0.0799999999999983,
+      "matrix": [
+        0.9999990252244151,
+        0.0013962629479142463,
+        -0.0013962629479142463,
+        0.9999990252244151
+      ]
+    },
+    {
+      "asset": "../assets/figma/failure/imgVector13.svg",
+      "node": "91:1228",
+      "name": null,
+      "x": 37.43036187113857,
+      "y": 80.00357022849462,
+      "width": 285.953,
+      "height": 82.8125,
+      "rotation": 0.0799999999999983,
+      "matrix": [
+        0.9999990252244151,
+        0.0013962629479142463,
+        -0.0013962629479142463,
+        0.9999990252244151
+      ]
+    },
+    {
+      "asset": "../assets/figma/failure/imgVector14.svg",
+      "node": "91:1231",
+      "name": null,
+      "x": 12.624133936451894,
+      "y": 82.0123504704301,
+      "width": 239.984,
+      "height": 76.8906,
+      "rotation": 0.0799999999999983,
+      "matrix": [
+        0.9999990252244151,
+        0.0013962629479142463,
+        -0.0013962629479142463,
+        0.9999990252244151
+      ]
+    },
+    {
+      "asset": "../assets/figma/failure/imgVector15.svg",
+      "node": "91:1232",
+      "name": null,
+      "x": 12.405538393645191,
+      "y": 80.86672547043011,
+      "width": 244.953,
+      "height": 81.875,
+      "rotation": 0.0799999999999983,
+      "matrix": [
+        0.9999990252244151,
+        0.0013962629479142463,
+        -0.0013962629479142463,
+        0.9999990252244151
+      ]
+    },
+    {
+      "asset": "../assets/figma/failure/imgVector14.svg",
+      "node": "91:1235",
+      "name": null,
+      "x": 66.28352824360107,
+      "y": 81.20065020161292,
+      "width": 240.109,
+      "height": 76.9062,
+      "rotation": 0.0799999999999983,
+      "matrix": [
+        0.9999990252244151,
+        0.0013962629479142463,
+        -0.0013962629479142463,
+        0.9999990252244151
+      ]
+    },
+    {
+      "asset": "../assets/figma/failure/imgVector15.svg",
+      "node": "91:1236",
+      "name": null,
+      "x": 66.0635536187114,
+      "y": 80.06762674967447,
+      "width": 245.078,
+      "height": 81.7969,
+      "rotation": 0.0799999999999983,
+      "matrix": [
+        0.9999990252244151,
+        0.0013962629479142463,
+        -0.0013962629479142463,
+        0.9999990252244151
+      ]
+    },
+    {
+      "asset": "../assets/figma/failure/imgVector16.svg",
+      "node": "91:1239",
+      "name": "Vector",
+      "x": 54.30066526919681,
+      "y": 82.82929771505376,
+      "width": 41.4688,
+      "height": 41.4688,
+      "rotation": -16.560000000000002,
+      "matrix": [
+        0.9585217890173758,
+        -0.28501926246997616,
+        0.28501926246997616,
+        0.9585217890173758
+      ]
+    },
+    {
+      "asset": "../assets/figma/failure/imgProperty1Default.svg",
+      "node": "91:1157",
+      "name": "Hasil",
+      "x": 88.92321270962049,
+      "y": 5.309139784946237,
+      "width": 91,
+      "height": 86,
+      "rotation": -90,
+      "matrix": [
+        0,
+        -1,
+        1,
+        0
+      ]
+    }
+  ],
+  "hutan-huruf-salah": [
+    {
+      "asset": "../assets/figma/forest-wrong/imgVector.svg",
+      "node": "113:4804",
+      "name": null,
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1133,
+      "height": 744,
+      "rotation": 0,
+      "matrix": [
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "asset": "../assets/figma/forest-wrong/imgGroup.svg",
+      "node": "113:4805",
+      "name": null,
+      "x": 6.619605030891441,
+      "y": 14.24941196236559,
+      "width": 990.031,
+      "height": 82,
+      "rotation": 0,
+      "matrix": [
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "asset": "../assets/figma/forest-wrong/imgVector1.svg",
+      "node": "113:4815",
+      "name": null,
+      "x": 0.0,
+      "y": 87.33828965053763,
+      "width": 1133,
+      "height": 94.0625,
+      "rotation": 0,
+      "matrix": [
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "asset": "../assets/figma/forest-wrong/imgVector2.svg",
+      "node": "113:4816",
+      "name": null,
+      "x": 0.0,
+      "y": 93.65969758064516,
+      "width": 1133,
+      "height": 47.0312,
+      "rotation": 0,
+      "matrix": [
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "asset": "../assets/figma/forest-wrong/imgVector3.svg",
+      "node": "113:4817",
+      "name": null,
+      "x": 39.44865953221536,
+      "y": 16.668741599462365,
+      "width": 240.109,
+      "height": 220.016,
+      "rotation": 0,
+      "matrix": [
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "asset": "../assets/figma/forest-wrong/imgVector4.svg",
+      "node": "113:4818",
+      "name": null,
+      "x": 39.183875772285965,
+      "y": 15.188197244623655,
+      "width": 246.109,
+      "height": 225.984,
+      "rotation": 0,
+      "matrix": [
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "asset": "../assets/figma/forest-wrong/imgGroup1.svg",
+      "node": "113:4819",
+      "name": null,
+      "x": 42.53849293909973,
+      "y": 16.109055779569893,
+      "width": 170.109,
+      "height": 203.141,
+      "rotation": 0,
+      "matrix": [
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "asset": "../assets/figma/forest-wrong/imgVector5.svg",
+      "node": "113:4824",
+      "name": null,
+      "x": 63.459150485436886,
+      "y": 18.007605846774194,
+      "width": 88.0469,
+      "height": 88.0312,
+      "rotation": 0,
+      "matrix": [
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "asset": "../assets/figma/forest-wrong/imgVector6.svg",
+      "node": "113:4825",
+      "name": null,
+      "x": 63.19505626654899,
+      "y": 16.53855678763441,
+      "width": 94.0469,
+      "height": 93.9219,
+      "rotation": 0,
+      "matrix": [
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "asset": "../assets/figma/forest-wrong/imgVector7.svg",
+      "node": "113:4830",
+      "name": null,
+      "x": 19.10579766107679,
+      "y": 53.42322748655914,
+      "width": 751.047,
+      "height": 221.078,
+      "rotation": 0,
+      "matrix": [
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "asset": "../assets/figma/forest-wrong/imgVector8.svg",
+      "node": "113:4832",
+      "name": null,
+      "x": 23.82983781994704,
+      "y": 57.38931451612903,
+      "width": 123.969,
+      "height": 124.047,
+      "rotation": 0,
+      "matrix": [
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "asset": "../assets/figma/forest-wrong/imgVector9.svg",
+      "node": "113:4833",
+      "name": null,
+      "x": 23.47610326566637,
+      "y": 55.78165322580645,
+      "width": 131.969,
+      "height": 131.969,
+      "rotation": 0,
+      "matrix": [
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "asset": "../assets/figma/forest-wrong/imgVector8.svg",
+      "node": "113:4841",
+      "name": null,
+      "x": 39.279004854368935,
+      "y": 65.45907258064516,
+      "width": 123.969,
+      "height": 123.969,
+      "rotation": 0,
+      "matrix": [
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "asset": "../assets/figma/forest-wrong/imgVector9.svg",
+      "node": "113:4842",
+      "name": null,
+      "x": 38.92595984112974,
+      "y": 63.84200268817205,
+      "width": 131.969,
+      "height": 132.031,
+      "rotation": 0,
+      "matrix": [
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "asset": "../assets/figma/forest-wrong/imgVector8.svg",
+      "node": "113:4838",
+      "name": null,
+      "x": 54.71922440423654,
+      "y": 56.048378696236554,
+      "width": 124.078,
+      "height": 124.047,
+      "rotation": 0,
+      "matrix": [
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "asset": "../assets/figma/forest-wrong/imgVector9.svg",
+      "node": "113:4839",
+      "name": null,
+      "x": 54.366179390997345,
+      "y": 54.431275201612905,
+      "width": 132.078,
+      "height": 132.047,
+      "rotation": 0,
+      "matrix": [
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "asset": "../assets/figma/forest-wrong/imgVector8.svg",
+      "node": "113:4835",
+      "name": null,
+      "x": 70.16975397175639,
+      "y": 64.7796875,
+      "width": 123.969,
+      "height": 124.047,
+      "rotation": 0,
+      "matrix": [
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "asset": "../assets/figma/forest-wrong/imgVector10.svg",
+      "node": "113:4836",
+      "name": null,
+      "x": 70.16906443071491,
+      "y": 63.709694220430116,
+      "width": 123.969,
+      "height": 124.031,
+      "rotation": 0,
+      "matrix": [
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "asset": "../assets/figma/forest-wrong/imgGroup2.svg",
+      "node": "113:4844",
+      "name": null,
+      "x": 5.648025154457193,
+      "y": 75.43578629032258,
+      "width": 176.547,
+      "height": 158.328,
+      "rotation": 0,
+      "matrix": [
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "asset": "../assets/figma/forest-wrong/imgVector11.svg",
+      "node": "113:4862",
+      "name": null,
+      "x": 19.11338812886143,
+      "y": 86.51188844086022,
+      "width": 65.0625,
+      "height": 33.0156,
+      "rotation": 24.39,
+      "matrix": [
+        0.9107557472598559,
+        0.4129454792501566,
+        -0.4129454792501566,
+        0.9107557472598559
+      ]
+    },
+    {
+      "asset": "../assets/figma/forest-wrong/imgVector12.svg",
+      "node": "113:4863",
+      "name": null,
+      "x": 22.01706751985878,
+      "y": 85.41246639784946,
+      "width": 345.062,
+      "height": 81.0625,
+      "rotation": 0,
+      "matrix": [
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "asset": "../assets/figma/forest-wrong/imgVector13.svg",
+      "node": "113:4864",
+      "name": null,
+      "x": 20.132532668084245,
+      "y": 87.1482258064516,
+      "width": 51.0312,
+      "height": 25.9844,
+      "rotation": 24.39,
+      "matrix": [
+        0.9107557472598559,
+        0.4129454792501566,
+        -0.4129454792501566,
+        0.9107557472598559
+      ]
+    },
+    {
+      "asset": "../assets/figma/forest-wrong/imgVector14.svg",
+      "node": "113:4866",
+      "name": null,
+      "x": 3.529072153574581,
+      "y": 6.449511088709678,
+      "width": 80.0156,
+      "height": 79.9844,
+      "rotation": 0,
+      "matrix": [
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "asset": "../assets/figma/forest-wrong/imgVector15.svg",
+      "node": "113:4867",
+      "name": null,
+      "x": 3.2635988526037067,
+      "y": 4.974168346774194,
+      "width": 86.0156,
+      "height": 86,
+      "rotation": 0,
+      "matrix": [
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "asset": "../assets/figma/forest-wrong/imgVector16.svg",
+      "node": "113:4868",
+      "name": null,
+      "x": 5.739739629302736,
+      "y": 8.329136424731184,
+      "width": 11,
+      "height": 36.0312,
+      "rotation": 0,
+      "matrix": [
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "asset": "../assets/figma/forest-wrong/imgVector16.svg",
+      "node": "113:4869",
+      "name": null,
+      "x": 7.409808031774051,
+      "y": 8.329136424731184,
+      "width": 11,
+      "height": 36.0312,
+      "rotation": 0,
+      "matrix": [
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "asset": "../assets/figma/forest-wrong/imgVector17.svg",
+      "node": "113:4870",
+      "name": null,
+      "x": 64.87546778464254,
+      "y": 20.160243615591398,
+      "width": 29.9219,
+      "height": 40.0312,
+      "rotation": 0,
+      "matrix": [
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "asset": "../assets/figma/forest-wrong/imgVector18.svg",
+      "node": "113:4871",
+      "name": null,
+      "x": 67.96392321270962,
+      "y": 20.024784946236558,
+      "width": 22,
+      "height": 42.0312,
+      "rotation": 0,
+      "matrix": [
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "asset": "../assets/figma/forest-wrong/imgVector19.svg",
+      "node": "113:4880",
+      "name": null,
+      "x": 72.23977272727274,
+      "y": 6.654275873655914,
+      "width": 164.953,
+      "height": 61,
+      "rotation": 0,
+      "matrix": [
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "asset": "../assets/figma/forest-wrong/imgProperty1Default.svg",
+      "node": "113:4803",
+      "name": "Layar Permainan - Tangkap Huruf",
+      "x": 88.9266604148279,
+      "y": 5.308091397849462,
+      "width": 90.9375,
+      "height": 86.0156,
+      "rotation": -90,
+      "matrix": [
+        0,
+        -1,
+        1,
+        0
+      ]
+    },
+    {
+      "asset": "../assets/figma/forest-wrong/imgVector20.svg",
+      "node": "113:4918",
+      "name": null,
+      "x": 73.87604589585172,
+      "y": 90.85601478494624,
+      "width": 33.9688,
+      "height": 34.0625,
+      "rotation": 0,
+      "matrix": [
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "asset": "../assets/figma/forest-wrong/imgVector21.svg",
+      "node": "113:4919",
+      "name": null,
+      "x": 84.55427846425418,
+      "y": 90.99042338709677,
+      "width": 31.9688,
+      "height": 32.0625,
+      "rotation": 0,
+      "matrix": [
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "asset": "../assets/figma/forest-wrong/imgVector21.svg",
+      "node": "113:4920",
+      "name": null,
+      "x": 81.02382833186232,
+      "y": 90.99042338709677,
+      "width": 31.9688,
+      "height": 32.0625,
+      "rotation": 0,
+      "matrix": [
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "asset": "../assets/figma/forest-wrong/imgVector21.svg",
+      "node": "113:4921",
+      "name": null,
+      "x": 88.08472859664607,
+      "y": 90.99042338709677,
+      "width": 31.9688,
+      "height": 32.0625,
+      "rotation": 0,
+      "matrix": [
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "asset": "../assets/figma/forest-wrong/imgVector21.svg",
+      "node": "113:4922",
+      "name": null,
+      "x": 77.49475728155339,
+      "y": 90.99042338709677,
+      "width": 31.9688,
+      "height": 32.0625,
+      "rotation": 0,
+      "matrix": [
+        1,
+        0,
+        0,
+        1
+      ]
+    }
+  ],
+  "hutan-huruf-benar": [
+    {
+      "asset": "../assets/figma/forest-correct/imgVector.svg",
+      "node": "113:5093",
+      "name": null,
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1133,
+      "height": 744,
+      "rotation": 0,
+      "matrix": [
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "asset": "../assets/figma/forest-correct/imgGroup.svg",
+      "node": "113:5094",
+      "name": null,
+      "x": 6.619605030891441,
+      "y": 14.24941196236559,
+      "width": 990.031,
+      "height": 82,
+      "rotation": 0,
+      "matrix": [
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "asset": "../assets/figma/forest-correct/imgVector1.svg",
+      "node": "113:5104",
+      "name": null,
+      "x": 0.0,
+      "y": 87.33828965053763,
+      "width": 1133,
+      "height": 94.0625,
+      "rotation": 0,
+      "matrix": [
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "asset": "../assets/figma/forest-correct/imgVector2.svg",
+      "node": "113:5105",
+      "name": null,
+      "x": 0.0,
+      "y": 93.65969758064516,
+      "width": 1133,
+      "height": 47.0312,
+      "rotation": 0,
+      "matrix": [
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "asset": "../assets/figma/forest-correct/imgVector3.svg",
+      "node": "113:5106",
+      "name": null,
+      "x": 39.44865953221536,
+      "y": 16.668741599462365,
+      "width": 240.109,
+      "height": 220.016,
+      "rotation": 0,
+      "matrix": [
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "asset": "../assets/figma/forest-correct/imgVector4.svg",
+      "node": "113:5107",
+      "name": null,
+      "x": 39.183875772285965,
+      "y": 15.188197244623655,
+      "width": 246.109,
+      "height": 225.984,
+      "rotation": 0,
+      "matrix": [
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "asset": "../assets/figma/forest-correct/imgVector5.svg",
+      "node": "113:5113",
+      "name": null,
+      "x": 63.459150485436886,
+      "y": 18.007605846774194,
+      "width": 88.0469,
+      "height": 88.0312,
+      "rotation": 0,
+      "matrix": [
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "asset": "../assets/figma/forest-correct/imgVector6.svg",
+      "node": "113:5114",
+      "name": null,
+      "x": 63.19505626654899,
+      "y": 16.53855678763441,
+      "width": 94.0469,
+      "height": 93.9219,
+      "rotation": 0,
+      "matrix": [
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "asset": "../assets/figma/forest-correct/imgVector7.svg",
+      "node": "113:5119",
+      "name": null,
+      "x": 19.10579766107679,
+      "y": 53.42322748655914,
+      "width": 751.047,
+      "height": 221.078,
+      "rotation": 0,
+      "matrix": [
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "asset": "../assets/figma/forest-correct/imgVector7.svg",
+      "node": "113:5120",
+      "name": null,
+      "x": 19.10579766107679,
+      "y": 53.42322748655914,
+      "width": 751.047,
+      "height": 221.078,
+      "rotation": 0,
+      "matrix": [
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "asset": "../assets/figma/forest-correct/imgVector8.svg",
+      "node": "113:5123",
+      "name": null,
+      "x": 23.82983781994704,
+      "y": 57.38931451612903,
+      "width": 123.969,
+      "height": 124.047,
+      "rotation": 0,
+      "matrix": [
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "asset": "../assets/figma/forest-correct/imgVector9.svg",
+      "node": "113:5124",
+      "name": null,
+      "x": 23.47610326566637,
+      "y": 55.78165322580645,
+      "width": 131.969,
+      "height": 131.969,
+      "rotation": 0,
+      "matrix": [
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "asset": "../assets/figma/forest-correct/imgVector8.svg",
+      "node": "113:5127",
+      "name": null,
+      "x": 39.279004854368935,
+      "y": 65.45907258064516,
+      "width": 123.969,
+      "height": 123.969,
+      "rotation": 0,
+      "matrix": [
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "asset": "../assets/figma/forest-correct/imgVector10.svg",
+      "node": "113:5128",
+      "name": null,
+      "x": 38.92595984112974,
+      "y": 63.84200268817205,
+      "width": 131.969,
+      "height": 132.031,
+      "rotation": 0,
+      "matrix": [
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "asset": "../assets/figma/forest-correct/imgVector8.svg",
+      "node": "113:5131",
+      "name": null,
+      "x": 54.71922440423654,
+      "y": 56.048378696236554,
+      "width": 124.078,
+      "height": 124.047,
+      "rotation": 0,
+      "matrix": [
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "asset": "../assets/figma/forest-correct/imgVector9.svg",
+      "node": "113:5132",
+      "name": null,
+      "x": 54.366179390997345,
+      "y": 54.431275201612905,
+      "width": 132.078,
+      "height": 132.047,
+      "rotation": 0,
+      "matrix": [
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "asset": "../assets/figma/forest-correct/imgVector8.svg",
+      "node": "113:5135",
+      "name": null,
+      "x": 70.16975397175639,
+      "y": 64.7796875,
+      "width": 123.969,
+      "height": 124.047,
+      "rotation": 0,
+      "matrix": [
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "asset": "../assets/figma/forest-correct/imgVector9.svg",
+      "node": "113:5136",
+      "name": null,
+      "x": 69.81601941747573,
+      "y": 63.172059811827964,
+      "width": 131.969,
+      "height": 132.031,
+      "rotation": 0,
+      "matrix": [
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "asset": "../assets/figma/forest-correct/imgGroup1.svg",
+      "node": "113:5138",
+      "name": null,
+      "x": 5.648025154457193,
+      "y": 75.43578629032258,
+      "width": 176.547,
+      "height": 158.328,
+      "rotation": 0,
+      "matrix": [
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "asset": "../assets/figma/forest-correct/imgVector11.svg",
+      "node": "113:5156",
+      "name": null,
+      "x": 19.11338812886143,
+      "y": 86.51188844086022,
+      "width": 65.0625,
+      "height": 33.0156,
+      "rotation": 24.39,
+      "matrix": [
+        0.9107557472598559,
+        0.4129454792501566,
+        -0.4129454792501566,
+        0.9107557472598559
+      ]
+    },
+    {
+      "asset": "../assets/figma/forest-correct/imgVector12.svg",
+      "node": "113:5157",
+      "name": null,
+      "x": 22.01706751985878,
+      "y": 85.41246639784946,
+      "width": 345.062,
+      "height": 81.0625,
+      "rotation": 0,
+      "matrix": [
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "asset": "../assets/figma/forest-correct/imgVector13.svg",
+      "node": "113:5158",
+      "name": null,
+      "x": 20.132532668084245,
+      "y": 87.1482258064516,
+      "width": 51.0312,
+      "height": 25.9844,
+      "rotation": 24.39,
+      "matrix": [
+        0.9107557472598559,
+        0.4129454792501566,
+        -0.4129454792501566,
+        0.9107557472598559
+      ]
+    },
+    {
+      "asset": "../assets/figma/forest-correct/imgVector14.svg",
+      "node": "113:5160",
+      "name": null,
+      "x": 3.529072153574581,
+      "y": 6.449511088709678,
+      "width": 80.0156,
+      "height": 79.9844,
+      "rotation": 0,
+      "matrix": [
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "asset": "../assets/figma/forest-correct/imgVector15.svg",
+      "node": "113:5161",
+      "name": null,
+      "x": 3.2635988526037067,
+      "y": 4.974168346774194,
+      "width": 86.0156,
+      "height": 86,
+      "rotation": 0,
+      "matrix": [
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "asset": "../assets/figma/forest-correct/imgVector16.svg",
+      "node": "113:5162",
+      "name": null,
+      "x": 5.739739629302736,
+      "y": 8.329136424731184,
+      "width": 11,
+      "height": 36.0312,
+      "rotation": 0,
+      "matrix": [
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "asset": "../assets/figma/forest-correct/imgVector16.svg",
+      "node": "113:5163",
+      "name": null,
+      "x": 7.409808031774051,
+      "y": 8.329136424731184,
+      "width": 11,
+      "height": 36.0312,
+      "rotation": 0,
+      "matrix": [
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "asset": "../assets/figma/forest-correct/imgVector17.svg",
+      "node": "113:5164",
+      "name": null,
+      "x": 64.87546778464254,
+      "y": 20.160243615591398,
+      "width": 29.9219,
+      "height": 40.0312,
+      "rotation": 0,
+      "matrix": [
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "asset": "../assets/figma/forest-correct/imgVector18.svg",
+      "node": "113:5165",
+      "name": null,
+      "x": 67.96392321270962,
+      "y": 20.024784946236558,
+      "width": 22,
+      "height": 42.0312,
+      "rotation": 0,
+      "matrix": [
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "asset": "../assets/figma/forest-correct/imgVector19.svg",
+      "node": "113:5169",
+      "name": null,
+      "x": 72.23977272727274,
+      "y": 6.654275873655914,
+      "width": 164.953,
+      "height": 61,
+      "rotation": 0,
+      "matrix": [
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "asset": "../assets/figma/forest-correct/imgProperty1Default.svg",
+      "node": "113:5092",
+      "name": "Layar Permainan - Tangkap Huruf",
+      "x": 88.9266604148279,
+      "y": 5.308091397849462,
+      "width": 90.9375,
+      "height": 86.0156,
+      "rotation": -90,
+      "matrix": [
+        0,
+        -1,
+        1,
+        0
+      ]
+    },
+    {
+      "asset": "../assets/figma/forest-correct/imgGroup2.svg",
+      "node": "113:5456",
+      "name": null,
+      "x": 44.040980803177405,
+      "y": 20.028990255376346,
+      "width": 124.547,
+      "height": 153.328,
+      "rotation": 0,
+      "matrix": [
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "asset": "../assets/figma/forest-correct/imgVector20.svg",
+      "node": "117:5512",
+      "name": null,
+      "x": 73.96430714916151,
+      "y": 90.99042338709677,
+      "width": 31.9688,
+      "height": 32.0625,
+      "rotation": 0,
+      "matrix": [
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "asset": "../assets/figma/forest-correct/imgVector21.svg",
+      "node": "117:5513",
+      "name": null,
+      "x": 77.58577669902913,
+      "y": 90.85601478494624,
+      "width": 33.9688,
+      "height": 34.0625,
+      "rotation": 0,
+      "matrix": [
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "asset": "../assets/figma/forest-correct/imgVector22.svg",
+      "node": "117:5514",
+      "name": null,
+      "x": 84.55427846425418,
+      "y": 90.99042338709677,
+      "width": 31.9688,
+      "height": 32.0625,
+      "rotation": 0,
+      "matrix": [
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "asset": "../assets/figma/forest-correct/imgVector22.svg",
+      "node": "117:5515",
+      "name": null,
+      "x": 81.11484774933804,
+      "y": 90.99042338709677,
+      "width": 31.9688,
+      "height": 32.0625,
+      "rotation": 0,
+      "matrix": [
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "asset": "../assets/figma/forest-correct/imgVector22.svg",
+      "node": "117:5516",
+      "name": null,
+      "x": 88.08472859664607,
+      "y": 90.99042338709677,
+      "width": 31.9688,
+      "height": 32.0625,
+      "rotation": 0,
+      "matrix": [
+        1,
+        0,
+        0,
+        1
+      ]
+    }
+  ]
+}

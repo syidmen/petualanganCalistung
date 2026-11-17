@@ -1,0 +1,56 @@
+@font-face {
+  font-family: "Fredoka One";
+  src: url("../assets/fonts/fredoka-one-400.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Inter";
+  src: url("../assets/fonts/inter-700.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Nunito Sans";
+  src: url("../assets/fonts/nunito-sans-800.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+}
+
+/* Halaman Figma berbagi bidang tablet 1133 × 744.
+   --x, --y, --w, dan --h menempatkan lapisan sesuai koordinat Figma.
+   Persentase dan cqw mempertahankan komposisi pada ukuran layar berbeda. */
+.figma-screen {
+  width: min(100vw, calc(100svh * 1133 / 744));
+  aspect-ratio: 1133 / 744;
+  background: var(--sky);
+}
+
+.design-layer {
+  position: absolute;
+  display: block;
+  left: var(--x);
+  top: var(--y);
+  width: var(--w);
+  height: var(--h);
+  rotate: var(--angle, 0deg);
+  transform: var(--matrix, none);
+  margin: 0;
+}
+
+.design-text {
+  color: var(--color, var(--ink));
+  font-family: var(--font, "Inter"), sans-serif;
+  font-size: var(--size);
+  font-weight: var(--weight, 700);
+  line-height: normal;
+  text-align: var(--align, center);
+  white-space: var(--wrap, normal);
+  overflow-wrap: break-word;
+  -webkit-text-stroke: var(--stroke, 0px transparent);
+}
